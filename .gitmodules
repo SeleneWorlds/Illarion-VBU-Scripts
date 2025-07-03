@@ -1,0 +1,3 @@
+[submodule "server/lua"]
+	path = server/lua
+	url = https://github.com/Illarion-eV/Illarion-Content
