@@ -1,7 +1,7 @@
 {
   "name": "illarion-vbu",
   "description": "The latest version of Illarion.",
-  "dependencies": ["illarion-api-bridge"],
+  "dependencies": ["illarion-api"],
   "preloads": {
     "alchemy.base.alchemy": "server/lua/alchemy/base/alchemy.lua",
     "alchemy.base.analysis": "server/lua/alchemy/base/analysis.lua",
