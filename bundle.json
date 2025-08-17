@@ -3,7 +3,8 @@
   "description": "The latest version of Illarion.",
   "dependencies": ["illarion-api"],
   "transformers": [
-    "iso-8859-1-transformer.lua"
+    "transformers/iso-8859-1.lua",
+    "transformers/fix-syntax-error.lua"
   ],
   "preloads": {
     "alchemy.base.alchemy": "server/lua/alchemy/base/alchemy.lua",
@@ -21,6 +22,7 @@
     "alchemy.teaching.playerInventedPotions": "server/lua/alchemy/teaching/playerInventedPotions.lua",
     "alchemy.teaching.transformation_dog": "server/lua/alchemy/teaching/transformation_dog.lua",
     "base.arena": "server/lua/base/arena.lua",
+    "base.blueprints": "server/lua/base/blueprints.lua",
     "base.character": "server/lua/base/character.lua",
     "base.class": "server/lua/base/class.lua",
     "base.common": "server/lua/base/common.lua",
@@ -164,6 +166,7 @@
     "item.base.genericRarenessLookat": "server/lua/item/base/genericRarenessLookat.lua",
     "item.base.music": "server/lua/item/base/music.lua",
     "item.base.treasure": "server/lua/item/base/treasure.lua",
+    "item.blueprints": "server/lua/item/blueprints.lua",
     "item.bookrests": "server/lua/item/bookrests.lua",
     "item.bottles": "server/lua/item/bottles.lua",
     "item.drinks": "server/lua/item/drinks.lua",
@@ -193,6 +196,7 @@
     "item.lever": "server/lua/item/lever.lua",
     "item.lights": "server/lua/item/lights.lua",
     "item.magicSphere": "server/lua/item/magicSphere.lua",
+    "item.teasets": "server/lua/item/teasets.lua",
     "item.tree": "server/lua/item/tree.lua",
     "item.wands": "server/lua/item/wands.lua",
     "lte.activity_tracker": "server/lua/lte/activity_tracker.lua",
