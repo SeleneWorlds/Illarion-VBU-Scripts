@@ -1,0 +1,4183 @@
+{
+  "entries": {
+    "illarion:item_greenSpiderEgg": {
+      "visual": "illarion:items/greenSpiderEgg",
+      "metadata": {
+        "id": "999",
+        "name": "greenSpiderEgg"
+      }
+    },
+    "illarion:item_spiderEgg": {
+      "visual": "illarion:items/spiderEgg",
+      "metadata": {
+        "id": "999",
+        "name": "spiderEgg"
+      }
+    },
+    "illarion:item_redSpiderEgg": {
+      "visual": "illarion:items/redSpiderEgg",
+      "metadata": {
+        "id": "999",
+        "name": "redSpiderEgg"
+      }
+    },
+    "illarion:item_copperPlate": {
+      "visual": "illarion:items/copperPlate",
+      "metadata": {
+        "id": "999",
+        "name": "copperPlate"
+      }
+    },
+    "illarion:item_weatheredlightparquet": {
+      "visual": "illarion:items/weatheredlightparquet",
+      "metadata": {
+        "id": "999",
+        "name": "weatheredlightparquet"
+      }
+    },
+    "illarion:item_weathereddarkparquet": {
+      "visual": "illarion:items/weathereddarkparquet",
+      "metadata": {
+        "id": "999",
+        "name": "weathereddarkparquet"
+      }
+    },
+    "illarion:item_forestsoil": {
+      "visual": "illarion:items/forestsoil",
+      "metadata": {
+        "id": "999",
+        "name": "forestsoil"
+      }
+    },
+    "illarion:item_compactedsand": {
+      "visual": "illarion:items/compactedsand",
+      "metadata": {
+        "id": "999",
+        "name": "compactedsand"
+      }
+    },
+    "illarion:item_muddysoil": {
+      "visual": "illarion:items/muddysoil",
+      "metadata": {
+        "id": "999",
+        "name": "muddysoil"
+      }
+    },
+    "illarion:item_sandblockpaving": {
+      "visual": "illarion:items/sandblockpaving",
+      "metadata": {
+        "id": "999",
+        "name": "sandblockpaving"
+      }
+    },
+    "illarion:item_anemogwynt": {
+      "visual": "illarion:items/anemogwynt",
+      "metadata": {
+        "id": "999",
+        "name": "anemogwynt"
+      }
+    },
+    "illarion:item_anemotan": {
+      "visual": "illarion:items/anemotan",
+      "metadata": {
+        "id": "999",
+        "name": "anemotan"
+      }
+    },
+    "illarion:item_anemoilyn": {
+      "visual": "illarion:items/anemoilyn",
+      "metadata": {
+        "id": "999",
+        "name": "anemoilyn"
+      }
+    },
+    "illarion:item_anemodaear": {
+      "visual": "illarion:items/anemodaear",
+      "metadata": {
+        "id": "999",
+        "name": "anemodaear"
+      }
+    },
+    "illarion:item_anemocoeden": {
+      "visual": "illarion:items/anemocoeden",
+      "metadata": {
+        "id": "999",
+        "name": "anemocoeden"
+      }
+    },
+    "illarion:item_anemoysbryd": {
+      "visual": "illarion:items/anemoysbryd",
+      "metadata": {
+        "id": "999",
+        "name": "anemoysbryd"
+      }
+    },
+    "illarion:item_anemodwyfol": {
+      "visual": "illarion:items/anemodwyfol",
+      "metadata": {
+        "id": "999",
+        "name": "anemodwyfol"
+      }
+    },
+    "illarion:item_pyrgwynt": {
+      "visual": "illarion:items/pyrgwynt",
+      "metadata": {
+        "id": "999",
+        "name": "pyrgwynt"
+      }
+    },
+    "illarion:item_pyrtan": {
+      "visual": "illarion:items/pyrtan",
+      "metadata": {
+        "id": "999",
+        "name": "pyrtan"
+      }
+    },
+    "illarion:item_pyrilyn": {
+      "visual": "illarion:items/pyrilyn",
+      "metadata": {
+        "id": "999",
+        "name": "pyrilyn"
+      }
+    },
+    "illarion:item_pyrdaear": {
+      "visual": "illarion:items/pyrdaear",
+      "metadata": {
+        "id": "999",
+        "name": "pyrdaear"
+      }
+    },
+    "illarion:item_pyrcoeden": {
+      "visual": "illarion:items/pyrcoeden",
+      "metadata": {
+        "id": "999",
+        "name": "pyrcoeden"
+      }
+    },
+    "illarion:item_pyrysbryd": {
+      "visual": "illarion:items/pyrysbryd",
+      "metadata": {
+        "id": "999",
+        "name": "pyrysbryd"
+      }
+    },
+    "illarion:item_pyrdwyfol": {
+      "visual": "illarion:items/pyrdwyfol",
+      "metadata": {
+        "id": "999",
+        "name": "pyrdwyfol"
+      }
+    },
+    "illarion:item_hydorgwynt": {
+      "visual": "illarion:items/hydorgwynt",
+      "metadata": {
+        "id": "999",
+        "name": "hydorgwynt"
+      }
+    },
+    "illarion:item_hydortan": {
+      "visual": "illarion:items/hydortan",
+      "metadata": {
+        "id": "999",
+        "name": "hydortan"
+      }
+    },
+    "illarion:item_hydorilyn": {
+      "visual": "illarion:items/hydorilyn",
+      "metadata": {
+        "id": "999",
+        "name": "hydorilyn"
+      }
+    },
+    "illarion:item_hydordaear": {
+      "visual": "illarion:items/hydordaear",
+      "metadata": {
+        "id": "999",
+        "name": "hydordaear"
+      }
+    },
+    "illarion:item_hydorcoeden": {
+      "visual": "illarion:items/hydorcoeden",
+      "metadata": {
+        "id": "999",
+        "name": "hydorcoeden"
+      }
+    },
+    "illarion:item_hydorysbryd": {
+      "visual": "illarion:items/hydorysbryd",
+      "metadata": {
+        "id": "999",
+        "name": "hydorysbryd"
+      }
+    },
+    "illarion:item_hydordwyfol": {
+      "visual": "illarion:items/hydordwyfol",
+      "metadata": {
+        "id": "999",
+        "name": "hydordwyfol"
+      }
+    },
+    "illarion:item_chousgwynt": {
+      "visual": "illarion:items/chousgwynt",
+      "metadata": {
+        "id": "999",
+        "name": "chousgwynt"
+      }
+    },
+    "illarion:item_choustan": {
+      "visual": "illarion:items/choustan",
+      "metadata": {
+        "id": "999",
+        "name": "choustan"
+      }
+    },
+    "illarion:item_chousilyn": {
+      "visual": "illarion:items/chousilyn",
+      "metadata": {
+        "id": "999",
+        "name": "chousilyn"
+      }
+    },
+    "illarion:item_chousdaear": {
+      "visual": "illarion:items/chousdaear",
+      "metadata": {
+        "id": "999",
+        "name": "chousdaear"
+      }
+    },
+    "illarion:item_chouscoeden": {
+      "visual": "illarion:items/chouscoeden",
+      "metadata": {
+        "id": "999",
+        "name": "chouscoeden"
+      }
+    },
+    "illarion:item_chousysbryd": {
+      "visual": "illarion:items/chousysbryd",
+      "metadata": {
+        "id": "999",
+        "name": "chousysbryd"
+      }
+    },
+    "illarion:item_chousdwyfol": {
+      "visual": "illarion:items/chousdwyfol",
+      "metadata": {
+        "id": "999",
+        "name": "chousdwyfol"
+      }
+    },
+    "illarion:item_dendrongwynt": {
+      "visual": "illarion:items/dendrongwynt",
+      "metadata": {
+        "id": "999",
+        "name": "dendrongwynt"
+      }
+    },
+    "illarion:item_dendrontan": {
+      "visual": "illarion:items/dendrontan",
+      "metadata": {
+        "id": "999",
+        "name": "dendrontan"
+      }
+    },
+    "illarion:item_dendronilyn": {
+      "visual": "illarion:items/dendronilyn",
+      "metadata": {
+        "id": "999",
+        "name": "dendronilyn"
+      }
+    },
+    "illarion:item_dendrondaear": {
+      "visual": "illarion:items/dendrondaear",
+      "metadata": {
+        "id": "999",
+        "name": "dendrondaear"
+      }
+    },
+    "illarion:item_dendroncoeden": {
+      "visual": "illarion:items/dendroncoeden",
+      "metadata": {
+        "id": "999",
+        "name": "dendroncoeden"
+      }
+    },
+    "illarion:item_dendronysbryd": {
+      "visual": "illarion:items/dendronysbryd",
+      "metadata": {
+        "id": "999",
+        "name": "dendronysbryd"
+      }
+    },
+    "illarion:item_dendrondwyfol": {
+      "visual": "illarion:items/dendrondwyfol",
+      "metadata": {
+        "id": "999",
+        "name": "dendrondwyfol"
+      }
+    },
+    "illarion:item_nomizogwynt": {
+      "visual": "illarion:items/nomizogwynt",
+      "metadata": {
+        "id": "999",
+        "name": "nomizogwynt"
+      }
+    },
+    "illarion:item_nomizotan": {
+      "visual": "illarion:items/nomizotan",
+      "metadata": {
+        "id": "999",
+        "name": "nomizotan"
+      }
+    },
+    "illarion:item_nomizoilyn": {
+      "visual": "illarion:items/nomizoilyn",
+      "metadata": {
+        "id": "999",
+        "name": "nomizoilyn"
+      }
+    },
+    "illarion:item_nomizodaear": {
+      "visual": "illarion:items/nomizodaear",
+      "metadata": {
+        "id": "999",
+        "name": "nomizodaear"
+      }
+    },
+    "illarion:item_nomizocoeden": {
+      "visual": "illarion:items/nomizocoeden",
+      "metadata": {
+        "id": "999",
+        "name": "nomizocoeden"
+      }
+    },
+    "illarion:item_nomizoysbryd": {
+      "visual": "illarion:items/nomizoysbryd",
+      "metadata": {
+        "id": "999",
+        "name": "nomizoysbryd"
+      }
+    },
+    "illarion:item_nomizodwyfol": {
+      "visual": "illarion:items/nomizodwyfol",
+      "metadata": {
+        "id": "999",
+        "name": "nomizodwyfol"
+      }
+    },
+    "illarion:item_hierosgwynt": {
+      "visual": "illarion:items/hierosgwynt",
+      "metadata": {
+        "id": "999",
+        "name": "hierosgwynt"
+      }
+    },
+    "illarion:item_hierostan": {
+      "visual": "illarion:items/hierostan",
+      "metadata": {
+        "id": "999",
+        "name": "hierostan"
+      }
+    },
+    "illarion:item_hierosilyn": {
+      "visual": "illarion:items/hierosilyn",
+      "metadata": {
+        "id": "999",
+        "name": "hierosilyn"
+      }
+    },
+    "illarion:item_hierosdaear": {
+      "visual": "illarion:items/hierosdaear",
+      "metadata": {
+        "id": "999",
+        "name": "hierosdaear"
+      }
+    },
+    "illarion:item_hieroscoeden": {
+      "visual": "illarion:items/hieroscoeden",
+      "metadata": {
+        "id": "999",
+        "name": "hieroscoeden"
+      }
+    },
+    "illarion:item_hierosysbryd": {
+      "visual": "illarion:items/hierosysbryd",
+      "metadata": {
+        "id": "999",
+        "name": "hierosysbryd"
+      }
+    },
+    "illarion:item_hierosdwyfol": {
+      "visual": "illarion:items/hierosdwyfol",
+      "metadata": {
+        "id": "999",
+        "name": "hierosdwyfol"
+      }
+    },
+    "illarion:item_cupriteOre": {
+      "visual": "illarion:items/cupriteOre",
+      "metadata": {
+        "id": "999",
+        "name": "cupriteOre"
+      }
+    },
+    "illarion:item_sealedPell": {
+      "visual": "illarion:items/sealedPell",
+      "metadata": {
+        "id": "999",
+        "name": "sealedPell"
+      }
+    },
+    "illarion:item_fancyIronTray": {
+      "visual": "illarion:items/fancyIronTray",
+      "metadata": {
+        "id": "999",
+        "name": "fancyIronTray"
+      }
+    },
+    "illarion:item_fancyCopperTray": {
+      "visual": "illarion:items/fancyCopperTray",
+      "metadata": {
+        "id": "999",
+        "name": "fancyCopperTray"
+      }
+    },
+    "illarion:item_fancySilverTray": {
+      "visual": "illarion:items/fancySilverTray",
+      "metadata": {
+        "id": "999",
+        "name": "fancySilverTray"
+      }
+    },
+    "illarion:item_fancyGoldTray": {
+      "visual": "illarion:items/fancyGoldTray",
+      "metadata": {
+        "id": "999",
+        "name": "fancyGoldTray"
+      }
+    },
+    "illarion:item_stainedGlassTrayBlueGreen": {
+      "visual": "illarion:items/stainedGlassTrayBlueGreen",
+      "metadata": {
+        "id": "999",
+        "name": "stainedGlassTrayBlueGreen"
+      }
+    },
+    "illarion:item_stainedGlassTrayGreenYellow": {
+      "visual": "illarion:items/stainedGlassTrayGreenYellow",
+      "metadata": {
+        "id": "999",
+        "name": "stainedGlassTrayGreenYellow"
+      }
+    },
+    "illarion:item_stainedGlassTrayRedBlack": {
+      "visual": "illarion:items/stainedGlassTrayRedBlack",
+      "metadata": {
+        "id": "999",
+        "name": "stainedGlassTrayRedBlack"
+      }
+    },
+    "illarion:item_stainedGlassTrayVioletRed": {
+      "visual": "illarion:items/stainedGlassTrayVioletRed",
+      "metadata": {
+        "id": "999",
+        "name": "stainedGlassTrayVioletRed"
+      }
+    },
+    "illarion:item_ironTraySouth": {
+      "visual": "illarion:items/ironTraySouth",
+      "metadata": {
+        "id": "999",
+        "name": "ironTraySouth"
+      }
+    },
+    "illarion:item_copperTraySouth": {
+      "visual": "illarion:items/copperTraySouth",
+      "metadata": {
+        "id": "999",
+        "name": "copperTraySouth"
+      }
+    },
+    "illarion:item_silverTraySouth": {
+      "visual": "illarion:items/silverTraySouth",
+      "metadata": {
+        "id": "999",
+        "name": "silverTraySouth"
+      }
+    },
+    "illarion:item_goldTraySouth": {
+      "visual": "illarion:items/goldTraySouth",
+      "metadata": {
+        "id": "999",
+        "name": "goldTraySouth"
+      }
+    },
+    "illarion:item_naldorTraySouth": {
+      "visual": "illarion:items/naldorTraySouth",
+      "metadata": {
+        "id": "999",
+        "name": "naldorTraySouth"
+      }
+    },
+    "illarion:item_coniferTraySouth": {
+      "visual": "illarion:items/coniferTraySouth",
+      "metadata": {
+        "id": "999",
+        "name": "coniferTraySouth"
+      }
+    },
+    "illarion:item_prismaticLens": {
+      "visual": "illarion:items/prismaticLens",
+      "metadata": {
+        "id": "999",
+        "name": "prismaticLens"
+      }
+    },
+    "illarion:item_cupriteIngot": {
+      "visual": "illarion:items/cupriteIngot",
+      "metadata": {
+        "id": "999",
+        "name": "cupriteIngot"
+      }
+    },
+    "illarion:item_halberdOfNature": {
+      "visual": "illarion:items/halberdOfNature",
+      "metadata": {
+        "id": "999",
+        "name": "halberdOfNature"
+      }
+    },
+    "illarion:item_fireMace": {
+      "visual": "illarion:items/fireMace",
+      "metadata": {
+        "id": "999",
+        "name": "fireMace"
+      }
+    },
+    "illarion:item_cucumber": {
+      "visual": "illarion:items/cucumber",
+      "metadata": {
+        "id": "999",
+        "name": "cucumber"
+      }
+    },
+    "illarion:item_lettuce": {
+      "visual": "illarion:items/lettuce",
+      "metadata": {
+        "id": "999",
+        "name": "lettuce"
+      }
+    },
+    "illarion:item_corn": {
+      "visual": "illarion:items/corn",
+      "metadata": {
+        "id": "999",
+        "name": "corn"
+      }
+    },
+    "illarion:item_bellpepper": {
+      "visual": "illarion:items/bellpepper",
+      "metadata": {
+        "id": "999",
+        "name": "bellpepper"
+      }
+    },
+    "illarion:item_pumpkin": {
+      "visual": "illarion:items/pumpkin",
+      "metadata": {
+        "id": "999",
+        "name": "pumpkin"
+      }
+    },
+    "illarion:item_cucumberSeeds": {
+      "visual": "illarion:items/cucumberSeeds",
+      "metadata": {
+        "id": "999",
+        "name": "cucumberSeeds"
+      }
+    },
+    "illarion:item_lettuceSeeds": {
+      "visual": "illarion:items/lettuceSeeds",
+      "metadata": {
+        "id": "999",
+        "name": "lettuceSeeds"
+      }
+    },
+    "illarion:item_cornSeeds": {
+      "visual": "illarion:items/cornSeeds",
+      "metadata": {
+        "id": "999",
+        "name": "cornSeeds"
+      }
+    },
+    "illarion:item_bellpepperSeeds": {
+      "visual": "illarion:items/bellpepperSeeds",
+      "metadata": {
+        "id": "999",
+        "name": "bellpepperSeeds"
+      }
+    },
+    "illarion:item_pumpkinSeeds": {
+      "visual": "illarion:items/pumpkinSeeds",
+      "metadata": {
+        "id": "999",
+        "name": "pumpkinSeeds"
+      }
+    },
+    "illarion:item_emptyTroutShoal": {
+      "visual": "illarion:items/emptyTroutShoal",
+      "metadata": {
+        "id": "999",
+        "name": "emptyTroutShoal"
+      }
+    },
+    "illarion:item_salmonShoal": {
+      "visual": "illarion:items/salmonShoal",
+      "metadata": {
+        "id": "999",
+        "name": "salmonShoal"
+      }
+    },
+    "illarion:item_emptySalmonShoal": {
+      "visual": "illarion:items/emptySalmonShoal",
+      "metadata": {
+        "id": "999",
+        "name": "emptySalmonShoal"
+      }
+    },
+    "illarion:item_shrimpShoal": {
+      "visual": "illarion:items/shrimpShoal",
+      "metadata": {
+        "id": "999",
+        "name": "shrimpShoal"
+      }
+    },
+    "illarion:item_emptyShrimpShoal": {
+      "visual": "illarion:items/emptyShrimpShoal",
+      "metadata": {
+        "id": "999",
+        "name": "emptyShrimpShoal"
+      }
+    },
+    "illarion:item_shrimp": {
+      "visual": "illarion:items/shrimp",
+      "metadata": {
+        "id": "999",
+        "name": "shrimp"
+      }
+    },
+    "illarion:item_fishingNet": {
+      "visual": "illarion:items/fishingNet",
+      "metadata": {
+        "id": "999",
+        "name": "fishingNet"
+      }
+    },
+    "illarion:item_flounderShoal": {
+      "visual": "illarion:items/flounderShoal",
+      "metadata": {
+        "id": "999",
+        "name": "flounderShoal"
+      }
+    },
+    "illarion:item_emptyFlounderShoal": {
+      "visual": "illarion:items/emptyFlounderShoal",
+      "metadata": {
+        "id": "999",
+        "name": "emptyFlounderShoal"
+      }
+    },
+    "illarion:item_flounder": {
+      "visual": "illarion:items/flounder",
+      "metadata": {
+        "id": "999",
+        "name": "flounder"
+      }
+    },
+    "illarion:item_horsemackerelShoal": {
+      "visual": "illarion:items/horsemackerelShoal",
+      "metadata": {
+        "id": "999",
+        "name": "horsemackerelShoal"
+      }
+    },
+    "illarion:item_emptyHorsemackerelShoal": {
+      "visual": "illarion:items/emptyHorsemackerelShoal",
+      "metadata": {
+        "id": "999",
+        "name": "emptyHorsemackerelShoal"
+      }
+    },
+    "illarion:item_rosefishShoal": {
+      "visual": "illarion:items/rosefishShoal",
+      "metadata": {
+        "id": "999",
+        "name": "rosefishShoal"
+      }
+    },
+    "illarion:item_emptyRosefishShoal": {
+      "visual": "illarion:items/emptyRosefishShoal",
+      "metadata": {
+        "id": "999",
+        "name": "emptyRosefishShoal"
+      }
+    },
+    "illarion:item_crabShoal": {
+      "visual": "illarion:items/crabShoal",
+      "metadata": {
+        "id": "999",
+        "name": "crabShoal"
+      }
+    },
+    "illarion:item_emptyCrabShoal": {
+      "visual": "illarion:items/emptyCrabShoal",
+      "metadata": {
+        "id": "999",
+        "name": "emptyCrabShoal"
+      }
+    },
+    "illarion:item_crab": {
+      "visual": "illarion:items/crab",
+      "metadata": {
+        "id": "999",
+        "name": "crab"
+      }
+    },
+    "illarion:item_eelShoal": {
+      "visual": "illarion:items/eelShoal",
+      "metadata": {
+        "id": "999",
+        "name": "eelShoal"
+      }
+    },
+    "illarion:item_emptyEelShoal": {
+      "visual": "illarion:items/emptyEelShoal",
+      "metadata": {
+        "id": "999",
+        "name": "emptyEelShoal"
+      }
+    },
+    "illarion:item_eel": {
+      "visual": "illarion:items/eel",
+      "metadata": {
+        "id": "999",
+        "name": "eel"
+      }
+    },
+    "illarion:item_octopusShoal": {
+      "visual": "illarion:items/octopusShoal",
+      "metadata": {
+        "id": "999",
+        "name": "octopusShoal"
+      }
+    },
+    "illarion:item_emptyOctopusShoal": {
+      "visual": "illarion:items/emptyOctopusShoal",
+      "metadata": {
+        "id": "999",
+        "name": "emptyOctopusShoal"
+      }
+    },
+    "illarion:item_octopus": {
+      "visual": "illarion:items/octopus",
+      "metadata": {
+        "id": "999",
+        "name": "octopus"
+      }
+    },
+    "illarion:item_swordfishShoal": {
+      "visual": "illarion:items/swordfishShoal",
+      "metadata": {
+        "id": "999",
+        "name": "swordfishShoal"
+      }
+    },
+    "illarion:item_emptySwordfishShoal": {
+      "visual": "illarion:items/emptySwordfishShoal",
+      "metadata": {
+        "id": "999",
+        "name": "emptySwordfishShoal"
+      }
+    },
+    "illarion:item_swordfish": {
+      "visual": "illarion:items/swordfish",
+      "metadata": {
+        "id": "999",
+        "name": "swordfish"
+      }
+    },
+    "illarion:item_lobsterShoal": {
+      "visual": "illarion:items/lobsterShoal",
+      "metadata": {
+        "id": "999",
+        "name": "lobsterShoal"
+      }
+    },
+    "illarion:item_emptyLobsterShoal": {
+      "visual": "illarion:items/emptyLobsterShoal",
+      "metadata": {
+        "id": "999",
+        "name": "emptyLobsterShoal"
+      }
+    },
+    "illarion:item_lobster": {
+      "visual": "illarion:items/lobster",
+      "metadata": {
+        "id": "999",
+        "name": "lobster"
+      }
+    },
+    "illarion:item_chickenNest": {
+      "visual": "illarion:items/chickenNest",
+      "metadata": {
+        "id": "999",
+        "name": "chickenNest"
+      }
+    },
+    "illarion:item_emptyChickenNest": {
+      "visual": "illarion:items/emptyChickenNest",
+      "metadata": {
+        "id": "999",
+        "name": "emptyChickenNest"
+      }
+    },
+    "illarion:item_pigeonNest": {
+      "visual": "illarion:items/pigeonNest",
+      "metadata": {
+        "id": "999",
+        "name": "pigeonNest"
+      }
+    },
+    "illarion:item_emptyPigeonNest": {
+      "visual": "illarion:items/emptyPigeonNest",
+      "metadata": {
+        "id": "999",
+        "name": "emptyPigeonNest"
+      }
+    },
+    "illarion:item_pigeonEgg": {
+      "visual": "illarion:items/pigeonEgg",
+      "metadata": {
+        "id": "999",
+        "name": "pigeonEgg"
+      }
+    },
+    "illarion:item_seagullNest": {
+      "visual": "illarion:items/seagullNest",
+      "metadata": {
+        "id": "999",
+        "name": "seagullNest"
+      }
+    },
+    "illarion:item_emptySeagullNest": {
+      "visual": "illarion:items/emptySeagullNest",
+      "metadata": {
+        "id": "999",
+        "name": "emptySeagullNest"
+      }
+    },
+    "illarion:item_seagullEgg": {
+      "visual": "illarion:items/seagullEgg",
+      "metadata": {
+        "id": "999",
+        "name": "seagullEgg"
+      }
+    },
+    "illarion:item_raptorNest": {
+      "visual": "illarion:items/raptorNest",
+      "metadata": {
+        "id": "999",
+        "name": "raptorNest"
+      }
+    },
+    "illarion:item_emptyRaptorNest": {
+      "visual": "illarion:items/emptyRaptorNest",
+      "metadata": {
+        "id": "999",
+        "name": "emptyRaptorNest"
+      }
+    },
+    "illarion:item_raptorEgg": {
+      "visual": "illarion:items/raptorEgg",
+      "metadata": {
+        "id": "999",
+        "name": "raptorEgg"
+      }
+    },
+    "illarion:item_spiderNest": {
+      "visual": "illarion:items/spiderNest",
+      "metadata": {
+        "id": "999",
+        "name": "spiderNest"
+      }
+    },
+    "illarion:item_emptySpiderNest": {
+      "visual": "illarion:items/emptySpiderNest",
+      "metadata": {
+        "id": "999",
+        "name": "emptySpiderNest"
+      }
+    },
+    "illarion:item_dragonNest": {
+      "visual": "illarion:items/dragonNest",
+      "metadata": {
+        "id": "999",
+        "name": "dragonNest"
+      }
+    },
+    "illarion:item_emptyDragonNest": {
+      "visual": "illarion:items/emptyDragonNest",
+      "metadata": {
+        "id": "999",
+        "name": "emptyDragonNest"
+      }
+    },
+    "illarion:item_dragonEgg": {
+      "visual": "illarion:items/dragonEgg",
+      "metadata": {
+        "id": "999",
+        "name": "dragonEgg"
+      }
+    },
+    "illarion:item_firewaspHive": {
+      "visual": "illarion:items/firewaspHive",
+      "metadata": {
+        "id": "999",
+        "name": "firewaspHive"
+      }
+    },
+    "illarion:item_firewaspHoneycomb": {
+      "visual": "illarion:items/firewaspHoneycomb",
+      "metadata": {
+        "id": "999",
+        "name": "firewaspHoneycomb"
+      }
+    },
+    "illarion:item_beeHouse": {
+      "visual": "illarion:items/beeHouse",
+      "metadata": {
+        "id": "999",
+        "name": "beeHouse"
+      }
+    },
+    "illarion:item_cookedShrimp": {
+      "visual": "illarion:items/cookedShrimp",
+      "metadata": {
+        "id": "999",
+        "name": "cookedShrimp"
+      }
+    },
+    "illarion:item_cookedCrab": {
+      "visual": "illarion:items/cookedCrab",
+      "metadata": {
+        "id": "999",
+        "name": "cookedCrab"
+      }
+    },
+    "illarion:item_cookedLobster": {
+      "visual": "illarion:items/cookedLobster",
+      "metadata": {
+        "id": "999",
+        "name": "cookedLobster"
+      }
+    },
+    "illarion:item_grilledOctopus": {
+      "visual": "illarion:items/grilledOctopus",
+      "metadata": {
+        "id": "999",
+        "name": "grilledOctopus"
+      }
+    },
+    "illarion:item_grilledFlounder": {
+      "visual": "illarion:items/grilledFlounder",
+      "metadata": {
+        "id": "999",
+        "name": "grilledFlounder"
+      }
+    },
+    "illarion:item_grilledFox": {
+      "visual": "illarion:items/grilledFox",
+      "metadata": {
+        "id": "999",
+        "name": "grilledFox"
+      }
+    },
+    "illarion:item_grilledWolf": {
+      "visual": "illarion:items/grilledWolf",
+      "metadata": {
+        "id": "999",
+        "name": "grilledWolf"
+      }
+    },
+    "illarion:item_grilledBear": {
+      "visual": "illarion:items/grilledBear",
+      "metadata": {
+        "id": "999",
+        "name": "grilledBear"
+      }
+    },
+    "illarion:item_grilledRaptor": {
+      "visual": "illarion:items/grilledRaptor",
+      "metadata": {
+        "id": "999",
+        "name": "grilledRaptor"
+      }
+    },
+    "illarion:item_grilledDragon": {
+      "visual": "illarion:items/grilledDragon",
+      "metadata": {
+        "id": "999",
+        "name": "grilledDragon"
+      }
+    },
+    "illarion:item_grilledRat": {
+      "visual": "illarion:items/grilledRat",
+      "metadata": {
+        "id": "999",
+        "name": "grilledRat"
+      }
+    },
+    "illarion:item_mackerelSalad": {
+      "visual": "illarion:items/mackerelSalad",
+      "metadata": {
+        "id": "999",
+        "name": "mackerelSalad"
+      }
+    },
+    "illarion:item_rosefishDish": {
+      "visual": "illarion:items/rosefishDish",
+      "metadata": {
+        "id": "999",
+        "name": "rosefishDish"
+      }
+    },
+    "illarion:item_rosefishStew": {
+      "visual": "illarion:items/rosefishStew",
+      "metadata": {
+        "id": "999",
+        "name": "rosefishStew"
+      }
+    },
+    "illarion:item_beeHoney": {
+      "visual": "illarion:items/beeHoney",
+      "metadata": {
+        "id": "999",
+        "name": "beeHoney"
+      }
+    },
+    "illarion:item_emptyHoneyJar": {
+      "visual": "illarion:items/emptyHoneyJar",
+      "metadata": {
+        "id": "999",
+        "name": "emptyHoneyJar"
+      }
+    },
+    "illarion:item_firewaspHoney": {
+      "visual": "illarion:items/firewaspHoney",
+      "metadata": {
+        "id": "999",
+        "name": "firewaspHoney"
+      }
+    },
+    "illarion:item_foxMeat": {
+      "visual": "illarion:items/foxMeat",
+      "metadata": {
+        "id": "999",
+        "name": "foxMeat"
+      }
+    },
+    "illarion:item_wolfMeat": {
+      "visual": "illarion:items/wolfMeat",
+      "metadata": {
+        "id": "999",
+        "name": "wolfMeat"
+      }
+    },
+    "illarion:item_bearMeat": {
+      "visual": "illarion:items/bearMeat",
+      "metadata": {
+        "id": "999",
+        "name": "bearMeat"
+      }
+    },
+    "illarion:item_raptorMeat": {
+      "visual": "illarion:items/raptorMeat",
+      "metadata": {
+        "id": "999",
+        "name": "raptorMeat"
+      }
+    },
+    "illarion:item_dragonMeat": {
+      "visual": "illarion:items/dragonMeat",
+      "metadata": {
+        "id": "999",
+        "name": "dragonMeat"
+      }
+    },
+    "illarion:item_ratMeat": {
+      "visual": "illarion:items/ratMeat",
+      "metadata": {
+        "id": "999",
+        "name": "ratMeat"
+      }
+    },
+    "illarion:item_teaSetIronAmethystCeramic": {
+      "visual": "illarion:items/teaSetIronAmethystCeramic",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronAmethystCeramic"
+      }
+    },
+    "illarion:item_teaSetIronAmethystClay": {
+      "visual": "illarion:items/teaSetIronAmethystClay",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronAmethystClay"
+      }
+    },
+    "illarion:item_teaSetIronAmethystCopper": {
+      "visual": "illarion:items/teaSetIronAmethystCopper",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronAmethystCopper"
+      }
+    },
+    "illarion:item_teaSetIronAmethystGlass": {
+      "visual": "illarion:items/teaSetIronAmethystGlass",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronAmethystGlass"
+      }
+    },
+    "illarion:item_teaSetIronAmethystGold": {
+      "visual": "illarion:items/teaSetIronAmethystGold",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronAmethystGold"
+      }
+    },
+    "illarion:item_teaSetIronAmethystIron": {
+      "visual": "illarion:items/teaSetIronAmethystIron",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronAmethystIron"
+      }
+    },
+    "illarion:item_teaSetIronAmethystSilver": {
+      "visual": "illarion:items/teaSetIronAmethystSilver",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronAmethystSilver"
+      }
+    },
+    "illarion:item_teaSetCopperObsidianCeramic": {
+      "visual": "illarion:items/teaSetCopperObsidianCeramic",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperObsidianCeramic"
+      }
+    },
+    "illarion:item_teaSetCopperObsidianClay": {
+      "visual": "illarion:items/teaSetCopperObsidianClay",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperObsidianClay"
+      }
+    },
+    "illarion:item_teaSetCopperObsidianrCopper": {
+      "visual": "illarion:items/teaSetCopperObsidianrCopper",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperObsidianrCopper"
+      }
+    },
+    "illarion:item_teaSetCopperObsidianGlass": {
+      "visual": "illarion:items/teaSetCopperObsidianGlass",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperObsidianGlass"
+      }
+    },
+    "illarion:item_teaSetCopperObsidianGold": {
+      "visual": "illarion:items/teaSetCopperObsidianGold",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperObsidianGold"
+      }
+    },
+    "illarion:item_teaSetCopperObsidianIron": {
+      "visual": "illarion:items/teaSetCopperObsidianIron",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperObsidianIron"
+      }
+    },
+    "illarion:item_teaSetCopperObsidianSilver": {
+      "visual": "illarion:items/teaSetCopperObsidianSilver",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperObsidianSilver"
+      }
+    },
+    "illarion:item_teaSetSilverSapphireCeramic": {
+      "visual": "illarion:items/teaSetSilverSapphireCeramic",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverSapphireCeramic"
+      }
+    },
+    "illarion:item_teaSetSilverSapphireClay": {
+      "visual": "illarion:items/teaSetSilverSapphireClay",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverSapphireClay"
+      }
+    },
+    "illarion:item_teaSetSilverSapphireCopper": {
+      "visual": "illarion:items/teaSetSilverSapphireCopper",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverSapphireCopper"
+      }
+    },
+    "illarion:item_teaSetSilverSapphireGlass": {
+      "visual": "illarion:items/teaSetSilverSapphireGlass",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverSapphireGlass"
+      }
+    },
+    "illarion:item_teaSetSilverSapphireGold": {
+      "visual": "illarion:items/teaSetSilverSapphireGold",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverSapphireGold"
+      }
+    },
+    "illarion:item_teaSetSilverSapphireIron": {
+      "visual": "illarion:items/teaSetSilverSapphireIron",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverSapphireIron"
+      }
+    },
+    "illarion:item_teaSetSilverSapphireSilver": {
+      "visual": "illarion:items/teaSetSilverSapphireSilver",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverSapphireSilver"
+      }
+    },
+    "illarion:item_teaSetGoldEmeraldCeramic": {
+      "visual": "illarion:items/teaSetGoldEmeraldCeramic",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldEmeraldCeramic"
+      }
+    },
+    "illarion:item_teaSetGoldEmeraldClay": {
+      "visual": "illarion:items/teaSetGoldEmeraldClay",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldEmeraldClay"
+      }
+    },
+    "illarion:item_teaSetGoldEmeraldCopper": {
+      "visual": "illarion:items/teaSetGoldEmeraldCopper",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldEmeraldCopper"
+      }
+    },
+    "illarion:item_teaSetGoldEmeraldGlass": {
+      "visual": "illarion:items/teaSetGoldEmeraldGlass",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldEmeraldGlass"
+      }
+    },
+    "illarion:item_teaSetGoldEmeraldGold": {
+      "visual": "illarion:items/teaSetGoldEmeraldGold",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldEmeraldGold"
+      }
+    },
+    "illarion:item_teaSetGoldEmeraldIron": {
+      "visual": "illarion:items/teaSetGoldEmeraldIron",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldEmeraldIron"
+      }
+    },
+    "illarion:item_teaSetGoldEmeraldSilver": {
+      "visual": "illarion:items/teaSetGoldEmeraldSilver",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldEmeraldSilver"
+      }
+    },
+    "illarion:item_teaSetBlueGreenGlassCeramic": {
+      "visual": "illarion:items/teaSetBlueGreenGlassCeramic",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetBlueGreenGlassCeramic"
+      }
+    },
+    "illarion:item_teaSetBlueGreenGlassClay": {
+      "visual": "illarion:items/teaSetBlueGreenGlassClay",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetBlueGreenGlassClay"
+      }
+    },
+    "illarion:item_teaSetBlueGreenGlassCopper": {
+      "visual": "illarion:items/teaSetBlueGreenGlassCopper",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetBlueGreenGlassCopper"
+      }
+    },
+    "illarion:item_teaSetBlueGreenGlassGlass": {
+      "visual": "illarion:items/teaSetBlueGreenGlassGlass",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetBlueGreenGlassGlass"
+      }
+    },
+    "illarion:item_teaSetBlueGreenGlassGold": {
+      "visual": "illarion:items/teaSetBlueGreenGlassGold",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetBlueGreenGlassGold"
+      }
+    },
+    "illarion:item_teaSetBlueGreenGlassIron": {
+      "visual": "illarion:items/teaSetBlueGreenGlassIron",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetBlueGreenGlassIron"
+      }
+    },
+    "illarion:item_teaSetBlueGreenGlassSilver": {
+      "visual": "illarion:items/teaSetBlueGreenGlassSilver",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetBlueGreenGlassSilver"
+      }
+    },
+    "illarion:item_teaSetGreenYellowGlassCeramic": {
+      "visual": "illarion:items/teaSetGreenYellowGlassCeramic",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGreenYellowGlassCeramic"
+      }
+    },
+    "illarion:item_teaSetGreenYellowGlassClay": {
+      "visual": "illarion:items/teaSetGreenYellowGlassClay",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGreenYellowGlassClay"
+      }
+    },
+    "illarion:item_teaSetGreenYellowGlassCopper": {
+      "visual": "illarion:items/teaSetGreenYellowGlassCopper",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGreenYellowGlassCopper"
+      }
+    },
+    "illarion:item_teaSetGreenYellowGlassGlass": {
+      "visual": "illarion:items/teaSetGreenYellowGlassGlass",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGreenYellowGlassGlass"
+      }
+    },
+    "illarion:item_teaSetGreenYellowGlassGold": {
+      "visual": "illarion:items/teaSetGreenYellowGlassGold",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGreenYellowGlassGold"
+      }
+    },
+    "illarion:item_teaSetGreenYellowGlassIron": {
+      "visual": "illarion:items/teaSetGreenYellowGlassIron",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGreenYellowGlassIron"
+      }
+    },
+    "illarion:item_teaSetGreenYellowGlassSilver": {
+      "visual": "illarion:items/teaSetGreenYellowGlassSilver",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGreenYellowGlassSilver"
+      }
+    },
+    "illarion:item_teaSetRedBlackGlassCeramic": {
+      "visual": "illarion:items/teaSetRedBlackGlassCeramic",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetRedBlackGlassCeramic"
+      }
+    },
+    "illarion:item_teaSetRedBlackGlassClay": {
+      "visual": "illarion:items/teaSetRedBlackGlassClay",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetRedBlackGlassClay"
+      }
+    },
+    "illarion:item_teaSetRedBlackGlassCopper": {
+      "visual": "illarion:items/teaSetRedBlackGlassCopper",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetRedBlackGlassCopper"
+      }
+    },
+    "illarion:item_teaSetRedBlackGlassGlass": {
+      "visual": "illarion:items/teaSetRedBlackGlassGlass",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetRedBlackGlassGlass"
+      }
+    },
+    "illarion:item_teaSetRedBlackGlassGold": {
+      "visual": "illarion:items/teaSetRedBlackGlassGold",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetRedBlackGlassGold"
+      }
+    },
+    "illarion:item_teaSetRedBlackGlassIron": {
+      "visual": "illarion:items/teaSetRedBlackGlassIron",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetRedBlackGlassIron"
+      }
+    },
+    "illarion:item_teaSetRedBlackGlassSilver": {
+      "visual": "illarion:items/teaSetRedBlackGlassSilver",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetRedBlackGlassSilver"
+      }
+    },
+    "illarion:item_teaSetVioletRedGlassCeramic": {
+      "visual": "illarion:items/teaSetVioletRedGlassCeramic",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetVioletRedGlassCeramic"
+      }
+    },
+    "illarion:item_teaSetVioletRedGlassClay": {
+      "visual": "illarion:items/teaSetVioletRedGlassClay",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetVioletRedGlassClay"
+      }
+    },
+    "illarion:item_teaSetVioletRedGlassCopper": {
+      "visual": "illarion:items/teaSetVioletRedGlassCopper",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetVioletRedGlassCopper"
+      }
+    },
+    "illarion:item_teaSetVioletRedGlassGlass": {
+      "visual": "illarion:items/teaSetVioletRedGlassGlass",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetVioletRedGlassGlass"
+      }
+    },
+    "illarion:item_teaSetVioletRedGlassGold": {
+      "visual": "illarion:items/teaSetVioletRedGlassGold",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetVioletRedGlassGold"
+      }
+    },
+    "illarion:item_teaSetVioletRedGlassIron": {
+      "visual": "illarion:items/teaSetVioletRedGlassIron",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetVioletRedGlassIron"
+      }
+    },
+    "illarion:item_teaSetVioletRedGlassSilver": {
+      "visual": "illarion:items/teaSetVioletRedGlassSilver",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetVioletRedGlassSilver"
+      }
+    },
+    "illarion:item_teaSetIronCeramicSouth": {
+      "visual": "illarion:items/teaSetIronCeramicSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronCeramicSouth"
+      }
+    },
+    "illarion:item_teaSetIronClaySouth": {
+      "visual": "illarion:items/teaSetIronClaySouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronClaySouth"
+      }
+    },
+    "illarion:item_teaSetIronCopperSouth": {
+      "visual": "illarion:items/teaSetIronCopperSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronCopperSouth"
+      }
+    },
+    "illarion:item_teaSetIronGlassSouth": {
+      "visual": "illarion:items/teaSetIronGlassSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronGlassSouth"
+      }
+    },
+    "illarion:item_teaSetIronGoldSouth": {
+      "visual": "illarion:items/teaSetIronGoldSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronGoldSouth"
+      }
+    },
+    "illarion:item_teaSetIronIronSouth": {
+      "visual": "illarion:items/teaSetIronIronSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronIronSouth"
+      }
+    },
+    "illarion:item_teaSetIronSilverSouth": {
+      "visual": "illarion:items/teaSetIronSilverSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronSilverSouth"
+      }
+    },
+    "illarion:item_ironTrayWest": {
+      "visual": "illarion:items/ironTrayWest",
+      "metadata": {
+        "id": "999",
+        "name": "ironTrayWest"
+      }
+    },
+    "illarion:item_teaSetIronCeramicWest": {
+      "visual": "illarion:items/teaSetIronCeramicWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronCeramicWest"
+      }
+    },
+    "illarion:item_teaSetIronClayWest": {
+      "visual": "illarion:items/teaSetIronClayWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronClayWest"
+      }
+    },
+    "illarion:item_teaSetIronCopperWest": {
+      "visual": "illarion:items/teaSetIronCopperWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronCopperWest"
+      }
+    },
+    "illarion:item_teaSetIronGlassWest": {
+      "visual": "illarion:items/teaSetIronGlassWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronGlassWest"
+      }
+    },
+    "illarion:item_teaSetIronGoldWest": {
+      "visual": "illarion:items/teaSetIronGoldWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronGoldWest"
+      }
+    },
+    "illarion:item_teaSetIronIronWest": {
+      "visual": "illarion:items/teaSetIronIronWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronIronWest"
+      }
+    },
+    "illarion:item_teaSetIronSilverWest": {
+      "visual": "illarion:items/teaSetIronSilverWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetIronSilverWest"
+      }
+    },
+    "illarion:item_teaSetCopperCeramicSouth": {
+      "visual": "illarion:items/teaSetCopperCeramicSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperCeramicSouth"
+      }
+    },
+    "illarion:item_teaSetCopperClaySouth": {
+      "visual": "illarion:items/teaSetCopperClaySouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperClaySouth"
+      }
+    },
+    "illarion:item_teaSetCopperCopperSouth": {
+      "visual": "illarion:items/teaSetCopperCopperSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperCopperSouth"
+      }
+    },
+    "illarion:item_teaSetCopperGlassSouth": {
+      "visual": "illarion:items/teaSetCopperGlassSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperGlassSouth"
+      }
+    },
+    "illarion:item_teaSetCopperGoldSouth": {
+      "visual": "illarion:items/teaSetCopperGoldSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperGoldSouth"
+      }
+    },
+    "illarion:item_teaSetCopperIronSouth": {
+      "visual": "illarion:items/teaSetCopperIronSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperIronSouth"
+      }
+    },
+    "illarion:item_teaSetCopperSilverSouth": {
+      "visual": "illarion:items/teaSetCopperSilverSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperSilverSouth"
+      }
+    },
+    "illarion:item_copperTrayWest": {
+      "visual": "illarion:items/copperTrayWest",
+      "metadata": {
+        "id": "999",
+        "name": "copperTrayWest"
+      }
+    },
+    "illarion:item_teaSetCopperCeramicWest": {
+      "visual": "illarion:items/teaSetCopperCeramicWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperCeramicWest"
+      }
+    },
+    "illarion:item_teaSetCopperClayWest": {
+      "visual": "illarion:items/teaSetCopperClayWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperClayWest"
+      }
+    },
+    "illarion:item_teaSetCopperCopperWest": {
+      "visual": "illarion:items/teaSetCopperCopperWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperCopperWest"
+      }
+    },
+    "illarion:item_teaSetCopperGlassWest": {
+      "visual": "illarion:items/teaSetCopperGlassWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperGlassWest"
+      }
+    },
+    "illarion:item_teaSetCopperGoldWest": {
+      "visual": "illarion:items/teaSetCopperGoldWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperGoldWest"
+      }
+    },
+    "illarion:item_teaSetCopperIronWest": {
+      "visual": "illarion:items/teaSetCopperIronWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperIronWest"
+      }
+    },
+    "illarion:item_teaSetCopperSilverWest": {
+      "visual": "illarion:items/teaSetCopperSilverWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetCopperSilverWest"
+      }
+    },
+    "illarion:item_teaSetSilverCeramicSouth": {
+      "visual": "illarion:items/teaSetSilverCeramicSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverCeramicSouth"
+      }
+    },
+    "illarion:item_teaSetSilverClaySouth": {
+      "visual": "illarion:items/teaSetSilverClaySouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverClaySouth"
+      }
+    },
+    "illarion:item_teaSetSilverCopperSouth": {
+      "visual": "illarion:items/teaSetSilverCopperSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverCopperSouth"
+      }
+    },
+    "illarion:item_teaSetSilverGlassSouth": {
+      "visual": "illarion:items/teaSetSilverGlassSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverGlassSouth"
+      }
+    },
+    "illarion:item_teaSetSilverGoldSouth": {
+      "visual": "illarion:items/teaSetSilverGoldSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverGoldSouth"
+      }
+    },
+    "illarion:item_teaSetSilverIronSouth": {
+      "visual": "illarion:items/teaSetSilverIronSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverIronSouth"
+      }
+    },
+    "illarion:item_teaSetSilverSilverSouth": {
+      "visual": "illarion:items/teaSetSilverSilverSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverSilverSouth"
+      }
+    },
+    "illarion:item_silverTrayWest": {
+      "visual": "illarion:items/silverTrayWest",
+      "metadata": {
+        "id": "999",
+        "name": "silverTrayWest"
+      }
+    },
+    "illarion:item_teaSetSilverCeramicWest": {
+      "visual": "illarion:items/teaSetSilverCeramicWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverCeramicWest"
+      }
+    },
+    "illarion:item_teaSetSilverClayWest": {
+      "visual": "illarion:items/teaSetSilverClayWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverClayWest"
+      }
+    },
+    "illarion:item_teaSetSilverCopperWest": {
+      "visual": "illarion:items/teaSetSilverCopperWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverCopperWest"
+      }
+    },
+    "illarion:item_teaSetSilverGlassWest": {
+      "visual": "illarion:items/teaSetSilverGlassWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverGlassWest"
+      }
+    },
+    "illarion:item_teaSetSilverGoldWest": {
+      "visual": "illarion:items/teaSetSilverGoldWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverGoldWest"
+      }
+    },
+    "illarion:item_teaSetSilverIronWest": {
+      "visual": "illarion:items/teaSetSilverIronWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverIronWest"
+      }
+    },
+    "illarion:item_teaSetSilverSilverWest": {
+      "visual": "illarion:items/teaSetSilverSilverWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetSilverSilverWest"
+      }
+    },
+    "illarion:item_teaSetGoldCeramicSouth": {
+      "visual": "illarion:items/teaSetGoldCeramicSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldCeramicSouth"
+      }
+    },
+    "illarion:item_teaSetGoldClaySouth": {
+      "visual": "illarion:items/teaSetGoldClaySouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldClaySouth"
+      }
+    },
+    "illarion:item_teaSetGoldCopperSouth": {
+      "visual": "illarion:items/teaSetGoldCopperSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldCopperSouth"
+      }
+    },
+    "illarion:item_teaSetGoldGlassSouth": {
+      "visual": "illarion:items/teaSetGoldGlassSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldGlassSouth"
+      }
+    },
+    "illarion:item_teaSetGoldGoldSouth": {
+      "visual": "illarion:items/teaSetGoldGoldSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldGoldSouth"
+      }
+    },
+    "illarion:item_teaSetGoldIronSouth": {
+      "visual": "illarion:items/teaSetGoldIronSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldIronSouth"
+      }
+    },
+    "illarion:item_teaSetGoldSilverSouth": {
+      "visual": "illarion:items/teaSetGoldSilverSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldSilverSouth"
+      }
+    },
+    "illarion:item_goldTrayWest": {
+      "visual": "illarion:items/goldTrayWest",
+      "metadata": {
+        "id": "999",
+        "name": "goldTrayWest"
+      }
+    },
+    "illarion:item_teaSetGoldCeramicWest": {
+      "visual": "illarion:items/teaSetGoldCeramicWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldCeramicWest"
+      }
+    },
+    "illarion:item_teaSetGoldClayWest": {
+      "visual": "illarion:items/teaSetGoldClayWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldClayWest"
+      }
+    },
+    "illarion:item_teaSetGoldCopperWest": {
+      "visual": "illarion:items/teaSetGoldCopperWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldCopperWest"
+      }
+    },
+    "illarion:item_teaSetGoldGlassWest": {
+      "visual": "illarion:items/teaSetGoldGlassWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldGlassWest"
+      }
+    },
+    "illarion:item_teaSetGoldGoldWest": {
+      "visual": "illarion:items/teaSetGoldGoldWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldGoldWest"
+      }
+    },
+    "illarion:item_teaSetGoldIronWest": {
+      "visual": "illarion:items/teaSetGoldIronWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldIronWest"
+      }
+    },
+    "illarion:item_teaSetGoldSilverWest": {
+      "visual": "illarion:items/teaSetGoldSilverWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetGoldSilverWest"
+      }
+    },
+    "illarion:item_teaSetNaldorCeramicSouth": {
+      "visual": "illarion:items/teaSetNaldorCeramicSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetNaldorCeramicSouth"
+      }
+    },
+    "illarion:item_teaSetNaldorClaySouth": {
+      "visual": "illarion:items/teaSetNaldorClaySouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetNaldorClaySouth"
+      }
+    },
+    "illarion:item_teaSetNaldorCopperSouth": {
+      "visual": "illarion:items/teaSetNaldorCopperSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetNaldorCopperSouth"
+      }
+    },
+    "illarion:item_teaSetNaldorGlassSouth": {
+      "visual": "illarion:items/teaSetNaldorGlassSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetNaldorGlassSouth"
+      }
+    },
+    "illarion:item_teaSetNaldorGoldSouth": {
+      "visual": "illarion:items/teaSetNaldorGoldSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetNaldorGoldSouth"
+      }
+    },
+    "illarion:item_teaSetNaldorIronSouth": {
+      "visual": "illarion:items/teaSetNaldorIronSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetNaldorIronSouth"
+      }
+    },
+    "illarion:item_teaSetNaldorSilverSouth": {
+      "visual": "illarion:items/teaSetNaldorSilverSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetNaldorSilverSouth"
+      }
+    },
+    "illarion:item_naldorTrayWest": {
+      "visual": "illarion:items/naldorTrayWest",
+      "metadata": {
+        "id": "999",
+        "name": "naldorTrayWest"
+      }
+    },
+    "illarion:item_teaSetNaldorCeramicWest": {
+      "visual": "illarion:items/teaSetNaldorCeramicWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetNaldorCeramicWest"
+      }
+    },
+    "illarion:item_teaSetNaldorClayWest": {
+      "visual": "illarion:items/teaSetNaldorClayWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetNaldorClayWest"
+      }
+    },
+    "illarion:item_teaSetNaldorCopperWest": {
+      "visual": "illarion:items/teaSetNaldorCopperWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetNaldorCopperWest"
+      }
+    },
+    "illarion:item_teaSetNaldorGlassWest": {
+      "visual": "illarion:items/teaSetNaldorGlassWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetNaldorGlassWest"
+      }
+    },
+    "illarion:item_teaSetNaldorGoldWest": {
+      "visual": "illarion:items/teaSetNaldorGoldWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetNaldorGoldWest"
+      }
+    },
+    "illarion:item_teaSetNaldorIronWest": {
+      "visual": "illarion:items/teaSetNaldorIronWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetNaldorIronWest"
+      }
+    },
+    "illarion:item_teaSetNaldorSilverWest": {
+      "visual": "illarion:items/teaSetNaldorSilverWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetNaldorSilverWest"
+      }
+    },
+    "illarion:item_teaSetConiferCeramicSouth": {
+      "visual": "illarion:items/teaSetConiferCeramicSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetConiferCeramicSouth"
+      }
+    },
+    "illarion:item_teaSetConiferClaySouth": {
+      "visual": "illarion:items/teaSetConiferClaySouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetConiferClaySouth"
+      }
+    },
+    "illarion:item_teaSetConiferCopperSouth": {
+      "visual": "illarion:items/teaSetConiferCopperSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetConiferCopperSouth"
+      }
+    },
+    "illarion:item_teaSetConiferGlassSouth": {
+      "visual": "illarion:items/teaSetConiferGlassSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetConiferGlassSouth"
+      }
+    },
+    "illarion:item_teaSetConiferGoldSouth": {
+      "visual": "illarion:items/teaSetConiferGoldSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetConiferGoldSouth"
+      }
+    },
+    "illarion:item_teaSetConiferIronSouth": {
+      "visual": "illarion:items/teaSetConiferIronSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetConiferIronSouth"
+      }
+    },
+    "illarion:item_teaSetConiferSilverSouth": {
+      "visual": "illarion:items/teaSetConiferSilverSouth",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetConiferSilverSouth"
+      }
+    },
+    "illarion:item_coniferTrayWest": {
+      "visual": "illarion:items/coniferTrayWest",
+      "metadata": {
+        "id": "999",
+        "name": "coniferTrayWest"
+      }
+    },
+    "illarion:item_teaSetConiferCeramicWest": {
+      "visual": "illarion:items/teaSetConiferCeramicWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetConiferCeramicWest"
+      }
+    },
+    "illarion:item_teaSetConiferClayWest": {
+      "visual": "illarion:items/teaSetConiferClayWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetConiferClayWest"
+      }
+    },
+    "illarion:item_teaSetConiferCopperWest": {
+      "visual": "illarion:items/teaSetConiferCopperWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetConiferCopperWest"
+      }
+    },
+    "illarion:item_teaSetConiferGlassWest": {
+      "visual": "illarion:items/teaSetConiferGlassWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetConiferGlassWest"
+      }
+    },
+    "illarion:item_teaSetConiferGoldWest": {
+      "visual": "illarion:items/teaSetConiferGoldWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetConiferGoldWest"
+      }
+    },
+    "illarion:item_teaSetConiferIronWest": {
+      "visual": "illarion:items/teaSetConiferIronWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetConiferIronWest"
+      }
+    },
+    "illarion:item_teaSetConiferSilverWest": {
+      "visual": "illarion:items/teaSetConiferSilverWest",
+      "metadata": {
+        "id": "999",
+        "name": "teaSetConiferSilverWest"
+      }
+    },
+    "illarion:item_glassServingJugWithWater": {
+      "visual": "illarion:items/glassServingJugWithWater",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithWater"
+      }
+    },
+    "illarion:item_clayServingJugWithWater": {
+      "visual": "illarion:items/clayServingJugWithWater",
+      "metadata": {
+        "id": "999",
+        "name": "clayServingJugWithWater"
+      }
+    },
+    "illarion:item_ceramicServingJugWithWater": {
+      "visual": "illarion:items/ceramicServingJugWithWater",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicServingJugWithWater"
+      }
+    },
+    "illarion:item_ironServingJugWithWater": {
+      "visual": "illarion:items/ironServingJugWithWater",
+      "metadata": {
+        "id": "999",
+        "name": "ironServingJugWithWater"
+      }
+    },
+    "illarion:item_copperServingJugWithWater": {
+      "visual": "illarion:items/copperServingJugWithWater",
+      "metadata": {
+        "id": "999",
+        "name": "copperServingJugWithWater"
+      }
+    },
+    "illarion:item_silverServingJugWithWater": {
+      "visual": "illarion:items/silverServingJugWithWater",
+      "metadata": {
+        "id": "999",
+        "name": "silverServingJugWithWater"
+      }
+    },
+    "illarion:item_goldServingJugWithWater": {
+      "visual": "illarion:items/goldServingJugWithWater",
+      "metadata": {
+        "id": "999",
+        "name": "goldServingJugWithWater"
+      }
+    },
+    "illarion:item_bottleOfWaterHalf": {
+      "visual": "illarion:items/bottleOfWaterHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfWaterHalf"
+      }
+    },
+    "illarion:item_glassServingJugWithWaterHalf": {
+      "visual": "illarion:items/glassServingJugWithWaterHalf",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithWaterHalf"
+      }
+    },
+    "illarion:item_bottleOfWaterQuarter": {
+      "visual": "illarion:items/bottleOfWaterQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfWaterQuarter"
+      }
+    },
+    "illarion:item_glassServingJugWithWaterQuarter": {
+      "visual": "illarion:items/glassServingJugWithWaterQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithWaterQuarter"
+      }
+    },
+    "illarion:item_glassServingJug": {
+      "visual": "illarion:items/glassServingJug",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJug"
+      }
+    },
+    "illarion:item_clayServingJug": {
+      "visual": "illarion:items/clayServingJug",
+      "metadata": {
+        "id": "999",
+        "name": "clayServingJug"
+      }
+    },
+    "illarion:item_ceramicServingJug": {
+      "visual": "illarion:items/ceramicServingJug",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicServingJug"
+      }
+    },
+    "illarion:item_ironServingJug": {
+      "visual": "illarion:items/ironServingJug",
+      "metadata": {
+        "id": "999",
+        "name": "ironServingJug"
+      }
+    },
+    "illarion:item_copperServingJug": {
+      "visual": "illarion:items/copperServingJug",
+      "metadata": {
+        "id": "999",
+        "name": "copperServingJug"
+      }
+    },
+    "illarion:item_silverServingJug": {
+      "visual": "illarion:items/silverServingJug",
+      "metadata": {
+        "id": "999",
+        "name": "silverServingJug"
+      }
+    },
+    "illarion:item_goldServingJug": {
+      "visual": "illarion:items/goldServingJug",
+      "metadata": {
+        "id": "999",
+        "name": "goldServingJug"
+      }
+    },
+    "illarion:item_clayCupWithWater": {
+      "visual": "illarion:items/clayCupWithWater",
+      "metadata": {
+        "id": "999",
+        "name": "clayCupWithWater"
+      }
+    },
+    "illarion:item_ceramicCup": {
+      "visual": "illarion:items/ceramicCup",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicCup"
+      }
+    },
+    "illarion:item_ceramicCupWithWater": {
+      "visual": "illarion:items/ceramicCupWithWater",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicCupWithWater"
+      }
+    },
+    "illarion:item_ironGobletWithWater": {
+      "visual": "illarion:items/ironGobletWithWater",
+      "metadata": {
+        "id": "999",
+        "name": "ironGobletWithWater"
+      }
+    },
+    "illarion:item_glassServingJugWithWine": {
+      "visual": "illarion:items/glassServingJugWithWine",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithWine"
+      }
+    },
+    "illarion:item_clayServingJugWithWine": {
+      "visual": "illarion:items/clayServingJugWithWine",
+      "metadata": {
+        "id": "999",
+        "name": "clayServingJugWithWine"
+      }
+    },
+    "illarion:item_ceramicServingJugWithWine": {
+      "visual": "illarion:items/ceramicServingJugWithWine",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicServingJugWithWine"
+      }
+    },
+    "illarion:item_ironServingJugWithWine": {
+      "visual": "illarion:items/ironServingJugWithWine",
+      "metadata": {
+        "id": "999",
+        "name": "ironServingJugWithWine"
+      }
+    },
+    "illarion:item_copperServingJugWithWine": {
+      "visual": "illarion:items/copperServingJugWithWine",
+      "metadata": {
+        "id": "999",
+        "name": "copperServingJugWithWine"
+      }
+    },
+    "illarion:item_silverServingJugWithWine": {
+      "visual": "illarion:items/silverServingJugWithWine",
+      "metadata": {
+        "id": "999",
+        "name": "silverServingJugWithWine"
+      }
+    },
+    "illarion:item_goldServingJugWithWine": {
+      "visual": "illarion:items/goldServingJugWithWine",
+      "metadata": {
+        "id": "999",
+        "name": "goldServingJugWithWine"
+      }
+    },
+    "illarion:item_bottleOfWineHalf": {
+      "visual": "illarion:items/bottleOfWineHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfWineHalf"
+      }
+    },
+    "illarion:item_glassServingJugWithWineHalf": {
+      "visual": "illarion:items/glassServingJugWithWineHalf",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithWineHalf"
+      }
+    },
+    "illarion:item_bottleOfWineQuarter": {
+      "visual": "illarion:items/bottleOfWineQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfWineQuarter"
+      }
+    },
+    "illarion:item_glassServingJugWithWineQuarter": {
+      "visual": "illarion:items/glassServingJugWithWineQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithWineQuarter"
+      }
+    },
+    "illarion:item_clayCupWithWine": {
+      "visual": "illarion:items/clayCupWithWine",
+      "metadata": {
+        "id": "999",
+        "name": "clayCupWithWine"
+      }
+    },
+    "illarion:item_ceramicCupWithWine": {
+      "visual": "illarion:items/ceramicCupWithWine",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicCupWithWine"
+      }
+    },
+    "illarion:item_ironGobletWithWine": {
+      "visual": "illarion:items/ironGobletWithWine",
+      "metadata": {
+        "id": "999",
+        "name": "ironGobletWithWine"
+      }
+    },
+    "illarion:item_glassServingJugWithCider": {
+      "visual": "illarion:items/glassServingJugWithCider",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithCider"
+      }
+    },
+    "illarion:item_clayServingJugWithCider": {
+      "visual": "illarion:items/clayServingJugWithCider",
+      "metadata": {
+        "id": "999",
+        "name": "clayServingJugWithCider"
+      }
+    },
+    "illarion:item_ceramicServingJugWithCider": {
+      "visual": "illarion:items/ceramicServingJugWithCider",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicServingJugWithCider"
+      }
+    },
+    "illarion:item_ironServingJugWithCider": {
+      "visual": "illarion:items/ironServingJugWithCider",
+      "metadata": {
+        "id": "999",
+        "name": "ironServingJugWithCider"
+      }
+    },
+    "illarion:item_copperServingJugWithCider": {
+      "visual": "illarion:items/copperServingJugWithCider",
+      "metadata": {
+        "id": "999",
+        "name": "copperServingJugWithCider"
+      }
+    },
+    "illarion:item_silverServingJugWithCider": {
+      "visual": "illarion:items/silverServingJugWithCider",
+      "metadata": {
+        "id": "999",
+        "name": "silverServingJugWithCider"
+      }
+    },
+    "illarion:item_goldServingJugWithCider": {
+      "visual": "illarion:items/goldServingJugWithCider",
+      "metadata": {
+        "id": "999",
+        "name": "goldServingJugWithCider"
+      }
+    },
+    "illarion:item_bottleOfCiderHalf": {
+      "visual": "illarion:items/bottleOfCiderHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfCiderHalf"
+      }
+    },
+    "illarion:item_glassServingJugWithCiderHalf": {
+      "visual": "illarion:items/glassServingJugWithCiderHalf",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithCiderHalf"
+      }
+    },
+    "illarion:item_bottleOfCiderQuarter": {
+      "visual": "illarion:items/bottleOfCiderQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfCiderQuarter"
+      }
+    },
+    "illarion:item_glassServingJugWithCiderQuarter": {
+      "visual": "illarion:items/glassServingJugWithCiderQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithCiderQuarter"
+      }
+    },
+    "illarion:item_clayCupWithCider": {
+      "visual": "illarion:items/clayCupWithCider",
+      "metadata": {
+        "id": "999",
+        "name": "clayCupWithCider"
+      }
+    },
+    "illarion:item_ceramicCupWithCider": {
+      "visual": "illarion:items/ceramicCupWithCider",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicCupWithCider"
+      }
+    },
+    "illarion:item_ironGobletWithCider": {
+      "visual": "illarion:items/ironGobletWithCider",
+      "metadata": {
+        "id": "999",
+        "name": "ironGobletWithCider"
+      }
+    },
+    "illarion:item_glassServingJugWithMead": {
+      "visual": "illarion:items/glassServingJugWithMead",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithMead"
+      }
+    },
+    "illarion:item_clayServingJugWithMead": {
+      "visual": "illarion:items/clayServingJugWithMead",
+      "metadata": {
+        "id": "999",
+        "name": "clayServingJugWithMead"
+      }
+    },
+    "illarion:item_ceramicServingJugWithMead": {
+      "visual": "illarion:items/ceramicServingJugWithMead",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicServingJugWithMead"
+      }
+    },
+    "illarion:item_ironServingJugWithMead": {
+      "visual": "illarion:items/ironServingJugWithMead",
+      "metadata": {
+        "id": "999",
+        "name": "ironServingJugWithMead"
+      }
+    },
+    "illarion:item_copperServingJugWithMead": {
+      "visual": "illarion:items/copperServingJugWithMead",
+      "metadata": {
+        "id": "999",
+        "name": "copperServingJugWithMead"
+      }
+    },
+    "illarion:item_silverServingJugWithMead": {
+      "visual": "illarion:items/silverServingJugWithMead",
+      "metadata": {
+        "id": "999",
+        "name": "silverServingJugWithMead"
+      }
+    },
+    "illarion:item_goldServingJugWithMead": {
+      "visual": "illarion:items/goldServingJugWithMead",
+      "metadata": {
+        "id": "999",
+        "name": "goldServingJugWithMead"
+      }
+    },
+    "illarion:item_bottleOfMeadHalf": {
+      "visual": "illarion:items/bottleOfMeadHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfMeadHalf"
+      }
+    },
+    "illarion:item_glassServingJugWithMeadHalf": {
+      "visual": "illarion:items/glassServingJugWithMeadHalf",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithMeadHalf"
+      }
+    },
+    "illarion:item_bottleOfMeadQuarter": {
+      "visual": "illarion:items/bottleOfMeadQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfMeadQuarter"
+      }
+    },
+    "illarion:item_glassServingJugWithMeadQuarter": {
+      "visual": "illarion:items/glassServingJugWithMeadQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithMeadQuarter"
+      }
+    },
+    "illarion:item_clayCupWithMead": {
+      "visual": "illarion:items/clayCupWithMead",
+      "metadata": {
+        "id": "999",
+        "name": "clayCupWithMead"
+      }
+    },
+    "illarion:item_ceramicCupWithMead": {
+      "visual": "illarion:items/ceramicCupWithMead",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicCupWithMead"
+      }
+    },
+    "illarion:item_ironGobletWithMead": {
+      "visual": "illarion:items/ironGobletWithMead",
+      "metadata": {
+        "id": "999",
+        "name": "ironGobletWithMead"
+      }
+    },
+    "illarion:item_bottleOfFairyWine": {
+      "visual": "illarion:items/bottleOfFairyWine",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfFairyWine"
+      }
+    },
+    "illarion:item_glassServingJugWithFairyWine": {
+      "visual": "illarion:items/glassServingJugWithFairyWine",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithFairyWine"
+      }
+    },
+    "illarion:item_clayServingJugWithFairyWine": {
+      "visual": "illarion:items/clayServingJugWithFairyWine",
+      "metadata": {
+        "id": "999",
+        "name": "clayServingJugWithFairyWine"
+      }
+    },
+    "illarion:item_ceramicServingJugWithFairyWine": {
+      "visual": "illarion:items/ceramicServingJugWithFairyWine",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicServingJugWithFairyWine"
+      }
+    },
+    "illarion:item_ironServingJugWithFairyWine": {
+      "visual": "illarion:items/ironServingJugWithFairyWine",
+      "metadata": {
+        "id": "999",
+        "name": "ironServingJugWithFairyWine"
+      }
+    },
+    "illarion:item_copperServingJugWithFairyWine": {
+      "visual": "illarion:items/copperServingJugWithFairyWine",
+      "metadata": {
+        "id": "999",
+        "name": "copperServingJugWithFairyWine"
+      }
+    },
+    "illarion:item_silverServingJugWithFairyWine": {
+      "visual": "illarion:items/silverServingJugWithFairyWine",
+      "metadata": {
+        "id": "999",
+        "name": "silverServingJugWithFairyWine"
+      }
+    },
+    "illarion:item_goldServingJugWithFairyWine": {
+      "visual": "illarion:items/goldServingJugWithFairyWine",
+      "metadata": {
+        "id": "999",
+        "name": "goldServingJugWithFairyWine"
+      }
+    },
+    "illarion:item_bottleOfFairyWineHalf": {
+      "visual": "illarion:items/bottleOfFairyWineHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfFairyWineHalf"
+      }
+    },
+    "illarion:item_glassServingJugWithFairyWineHalf": {
+      "visual": "illarion:items/glassServingJugWithFairyWineHalf",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithFairyWineHalf"
+      }
+    },
+    "illarion:item_bottleOfFairyWineQuarter": {
+      "visual": "illarion:items/bottleOfFairyWineQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfFairyWineQuarter"
+      }
+    },
+    "illarion:item_glassServingJugWithFairyWineQuarter": {
+      "visual": "illarion:items/glassServingJugWithFairyWineQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithFairyWineQuarter"
+      }
+    },
+    "illarion:item_clayCupWithFairywine": {
+      "visual": "illarion:items/clayCupWithFairywine",
+      "metadata": {
+        "id": "999",
+        "name": "clayCupWithFairywine"
+      }
+    },
+    "illarion:item_ceramicCupWithFairyWine": {
+      "visual": "illarion:items/ceramicCupWithFairyWine",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicCupWithFairyWine"
+      }
+    },
+    "illarion:item_cupWithFairywine": {
+      "visual": "illarion:items/cupWithFairywine",
+      "metadata": {
+        "id": "999",
+        "name": "cupWithFairywine"
+      }
+    },
+    "illarion:item_ironGobletWithFairywine": {
+      "visual": "illarion:items/ironGobletWithFairywine",
+      "metadata": {
+        "id": "999",
+        "name": "ironGobletWithFairywine"
+      }
+    },
+    "illarion:item_copperGobletWithFairywine": {
+      "visual": "illarion:items/copperGobletWithFairywine",
+      "metadata": {
+        "id": "999",
+        "name": "copperGobletWithFairywine"
+      }
+    },
+    "illarion:item_silverGobletWithFairywine": {
+      "visual": "illarion:items/silverGobletWithFairywine",
+      "metadata": {
+        "id": "999",
+        "name": "silverGobletWithFairywine"
+      }
+    },
+    "illarion:item_goldGobletWithFairywine": {
+      "visual": "illarion:items/goldGobletWithFairywine",
+      "metadata": {
+        "id": "999",
+        "name": "goldGobletWithFairywine"
+      }
+    },
+    "illarion:item_glassWithFairywine": {
+      "visual": "illarion:items/glassWithFairywine",
+      "metadata": {
+        "id": "999",
+        "name": "glassWithFairywine"
+      }
+    },
+    "illarion:item_glassServingJugWithBeer": {
+      "visual": "illarion:items/glassServingJugWithBeer",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithBeer"
+      }
+    },
+    "illarion:item_clayServingJugWithBeer": {
+      "visual": "illarion:items/clayServingJugWithBeer",
+      "metadata": {
+        "id": "999",
+        "name": "clayServingJugWithBeer"
+      }
+    },
+    "illarion:item_ceramicServingJugWithBeer": {
+      "visual": "illarion:items/ceramicServingJugWithBeer",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicServingJugWithBeer"
+      }
+    },
+    "illarion:item_ironServingJugWithBeer": {
+      "visual": "illarion:items/ironServingJugWithBeer",
+      "metadata": {
+        "id": "999",
+        "name": "ironServingJugWithBeer"
+      }
+    },
+    "illarion:item_copperServingJugWithBeer": {
+      "visual": "illarion:items/copperServingJugWithBeer",
+      "metadata": {
+        "id": "999",
+        "name": "copperServingJugWithBeer"
+      }
+    },
+    "illarion:item_silverServingJugWithBeer": {
+      "visual": "illarion:items/silverServingJugWithBeer",
+      "metadata": {
+        "id": "999",
+        "name": "silverServingJugWithBeer"
+      }
+    },
+    "illarion:item_goldServingJugWithBeer": {
+      "visual": "illarion:items/goldServingJugWithBeer",
+      "metadata": {
+        "id": "999",
+        "name": "goldServingJugWithBeer"
+      }
+    },
+    "illarion:item_bottleOfBeerHalf": {
+      "visual": "illarion:items/bottleOfBeerHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfBeerHalf"
+      }
+    },
+    "illarion:item_glassServingJugWithBeerHalf": {
+      "visual": "illarion:items/glassServingJugWithBeerHalf",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithBeerHalf"
+      }
+    },
+    "illarion:item_bottleOfBeerQuarter": {
+      "visual": "illarion:items/bottleOfBeerQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfBeerQuarter"
+      }
+    },
+    "illarion:item_glassServingJugWithBeerQuarter": {
+      "visual": "illarion:items/glassServingJugWithBeerQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithBeerQuarter"
+      }
+    },
+    "illarion:item_clayBeerMugFull": {
+      "visual": "illarion:items/clayBeerMugFull",
+      "metadata": {
+        "id": "999",
+        "name": "clayBeerMugFull"
+      }
+    },
+    "illarion:item_bottleOfSheepMilk": {
+      "visual": "illarion:items/bottleOfSheepMilk",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfSheepMilk"
+      }
+    },
+    "illarion:item_bottleOfDeerMilk": {
+      "visual": "illarion:items/bottleOfDeerMilk",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfDeerMilk"
+      }
+    },
+    "illarion:item_glassServingJugWithMilk": {
+      "visual": "illarion:items/glassServingJugWithMilk",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithMilk"
+      }
+    },
+    "illarion:item_clayServingJugWithMilk": {
+      "visual": "illarion:items/clayServingJugWithMilk",
+      "metadata": {
+        "id": "999",
+        "name": "clayServingJugWithMilk"
+      }
+    },
+    "illarion:item_ceramicServingJugWithMilk": {
+      "visual": "illarion:items/ceramicServingJugWithMilk",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicServingJugWithMilk"
+      }
+    },
+    "illarion:item_ironServingJugWithMilk": {
+      "visual": "illarion:items/ironServingJugWithMilk",
+      "metadata": {
+        "id": "999",
+        "name": "ironServingJugWithMilk"
+      }
+    },
+    "illarion:item_copperServingJugWithMilk": {
+      "visual": "illarion:items/copperServingJugWithMilk",
+      "metadata": {
+        "id": "999",
+        "name": "copperServingJugWithMilk"
+      }
+    },
+    "illarion:item_silverServingJugWithMilk": {
+      "visual": "illarion:items/silverServingJugWithMilk",
+      "metadata": {
+        "id": "999",
+        "name": "silverServingJugWithMilk"
+      }
+    },
+    "illarion:item_goldServingJugWithMilk": {
+      "visual": "illarion:items/goldServingJugWithMilk",
+      "metadata": {
+        "id": "999",
+        "name": "goldServingJugWithMilk"
+      }
+    },
+    "illarion:item_bottleOfMilkHalf": {
+      "visual": "illarion:items/bottleOfMilkHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfMilkHalf"
+      }
+    },
+    "illarion:item_bottleOfSheepMilkHalf": {
+      "visual": "illarion:items/bottleOfSheepMilkHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfSheepMilkHalf"
+      }
+    },
+    "illarion:item_bottleOfDeerMilkHalf": {
+      "visual": "illarion:items/bottleOfDeerMilkHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfDeerMilkHalf"
+      }
+    },
+    "illarion:item_glassServingJugWithMilkHalf": {
+      "visual": "illarion:items/glassServingJugWithMilkHalf",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithMilkHalf"
+      }
+    },
+    "illarion:item_bottleOfMilkQuarter": {
+      "visual": "illarion:items/bottleOfMilkQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfMilkQuarter"
+      }
+    },
+    "illarion:item_bottleOfSheepMilkQuarter": {
+      "visual": "illarion:items/bottleOfSheepMilkQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfSheepMilkQuarter"
+      }
+    },
+    "illarion:item_bottleOfDeerMilkQuarter": {
+      "visual": "illarion:items/bottleOfDeerMilkQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfDeerMilkQuarter"
+      }
+    },
+    "illarion:item_glassServingJugWithMilkQuarter": {
+      "visual": "illarion:items/glassServingJugWithMilkQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "glassServingJugWithMilkQuarter"
+      }
+    },
+    "illarion:item_clayCupWithMilk": {
+      "visual": "illarion:items/clayCupWithMilk",
+      "metadata": {
+        "id": "999",
+        "name": "clayCupWithMilk"
+      }
+    },
+    "illarion:item_ceramicCupWithMilk": {
+      "visual": "illarion:items/ceramicCupWithMilk",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicCupWithMilk"
+      }
+    },
+    "illarion:item_cupWithMilk": {
+      "visual": "illarion:items/cupWithMilk",
+      "metadata": {
+        "id": "999",
+        "name": "cupWithMilk"
+      }
+    },
+    "illarion:item_ironGobletWithMilk": {
+      "visual": "illarion:items/ironGobletWithMilk",
+      "metadata": {
+        "id": "999",
+        "name": "ironGobletWithMilk"
+      }
+    },
+    "illarion:item_copperGobletWithMilk": {
+      "visual": "illarion:items/copperGobletWithMilk",
+      "metadata": {
+        "id": "999",
+        "name": "copperGobletWithMilk"
+      }
+    },
+    "illarion:item_silverGobletglassWithMilk": {
+      "visual": "illarion:items/silverGobletglassWithMilk",
+      "metadata": {
+        "id": "999",
+        "name": "silverGobletglassWithMilk"
+      }
+    },
+    "illarion:item_goldGobletWithMilk": {
+      "visual": "illarion:items/goldGobletWithMilk",
+      "metadata": {
+        "id": "999",
+        "name": "goldGobletWithMilk"
+      }
+    },
+    "illarion:item_glassWithMilk": {
+      "visual": "illarion:items/glassWithMilk",
+      "metadata": {
+        "id": "999",
+        "name": "glassWithMilk"
+      }
+    },
+    "illarion:item_bottleOfElvenWineHalf": {
+      "visual": "illarion:items/bottleOfElvenWineHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfElvenWineHalf"
+      }
+    },
+    "illarion:item_bottleOfElvenWineQuarter": {
+      "visual": "illarion:items/bottleOfElvenWineQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfElvenWineQuarter"
+      }
+    },
+    "illarion:item_clayShotGlass": {
+      "visual": "illarion:items/clayShotGlass",
+      "metadata": {
+        "id": "999",
+        "name": "clayShotGlass"
+      }
+    },
+    "illarion:item_clayShotGlassWithElvenWine": {
+      "visual": "illarion:items/clayShotGlassWithElvenWine",
+      "metadata": {
+        "id": "999",
+        "name": "clayShotGlassWithElvenWine"
+      }
+    },
+    "illarion:item_ceramicShotGlass": {
+      "visual": "illarion:items/ceramicShotGlass",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicShotGlass"
+      }
+    },
+    "illarion:item_ceramicShotGlassWithElvenWine": {
+      "visual": "illarion:items/ceramicShotGlassWithElvenWine",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicShotGlassWithElvenWine"
+      }
+    },
+    "illarion:item_ironShotGlass": {
+      "visual": "illarion:items/ironShotGlass",
+      "metadata": {
+        "id": "999",
+        "name": "ironShotGlass"
+      }
+    },
+    "illarion:item_ironShotGlassWithElvenWine": {
+      "visual": "illarion:items/ironShotGlassWithElvenWine",
+      "metadata": {
+        "id": "999",
+        "name": "ironShotGlassWithElvenWine"
+      }
+    },
+    "illarion:item_copperShotGlass": {
+      "visual": "illarion:items/copperShotGlass",
+      "metadata": {
+        "id": "999",
+        "name": "copperShotGlass"
+      }
+    },
+    "illarion:item_copperShotGlassWithElvenWine": {
+      "visual": "illarion:items/copperShotGlassWithElvenWine",
+      "metadata": {
+        "id": "999",
+        "name": "copperShotGlassWithElvenWine"
+      }
+    },
+    "illarion:item_silverShotGlass": {
+      "visual": "illarion:items/silverShotGlass",
+      "metadata": {
+        "id": "999",
+        "name": "silverShotGlass"
+      }
+    },
+    "illarion:item_silverShotGlassWithElvenWine": {
+      "visual": "illarion:items/silverShotGlassWithElvenWine",
+      "metadata": {
+        "id": "999",
+        "name": "silverShotGlassWithElvenWine"
+      }
+    },
+    "illarion:item_goldShotGlass": {
+      "visual": "illarion:items/goldShotGlass",
+      "metadata": {
+        "id": "999",
+        "name": "goldShotGlass"
+      }
+    },
+    "illarion:item_goldShotGlassWithElvenWine": {
+      "visual": "illarion:items/goldShotGlassWithElvenWine",
+      "metadata": {
+        "id": "999",
+        "name": "goldShotGlassWithElvenWine"
+      }
+    },
+    "illarion:item_shotGlass": {
+      "visual": "illarion:items/shotGlass",
+      "metadata": {
+        "id": "999",
+        "name": "shotGlass"
+      }
+    },
+    "illarion:item_shotGlassWithElvenWine": {
+      "visual": "illarion:items/shotGlassWithElvenWine",
+      "metadata": {
+        "id": "999",
+        "name": "shotGlassWithElvenWine"
+      }
+    },
+    "illarion:item_bottleOfAbsinthHalf": {
+      "visual": "illarion:items/bottleOfAbsinthHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfAbsinthHalf"
+      }
+    },
+    "illarion:item_bottleOfAbsinthQuarter": {
+      "visual": "illarion:items/bottleOfAbsinthQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfAbsinthQuarter"
+      }
+    },
+    "illarion:item_clayShotGlassWithAbsinthe": {
+      "visual": "illarion:items/clayShotGlassWithAbsinthe",
+      "metadata": {
+        "id": "999",
+        "name": "clayShotGlassWithAbsinthe"
+      }
+    },
+    "illarion:item_ceramicShotGlassWithAbsinthe": {
+      "visual": "illarion:items/ceramicShotGlassWithAbsinthe",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicShotGlassWithAbsinthe"
+      }
+    },
+    "illarion:item_ironShotGlassWithAbsinthe": {
+      "visual": "illarion:items/ironShotGlassWithAbsinthe",
+      "metadata": {
+        "id": "999",
+        "name": "ironShotGlassWithAbsinthe"
+      }
+    },
+    "illarion:item_copperShotGlassWithAbsinthe": {
+      "visual": "illarion:items/copperShotGlassWithAbsinthe",
+      "metadata": {
+        "id": "999",
+        "name": "copperShotGlassWithAbsinthe"
+      }
+    },
+    "illarion:item_silverShotGlassWithAbsinthe": {
+      "visual": "illarion:items/silverShotGlassWithAbsinthe",
+      "metadata": {
+        "id": "999",
+        "name": "silverShotGlassWithAbsinthe"
+      }
+    },
+    "illarion:item_goldShotGlassWithAbsinthe": {
+      "visual": "illarion:items/goldShotGlassWithAbsinthe",
+      "metadata": {
+        "id": "999",
+        "name": "goldShotGlassWithAbsinthe"
+      }
+    },
+    "illarion:item_shotGlassWithAbsinthe": {
+      "visual": "illarion:items/shotGlassWithAbsinthe",
+      "metadata": {
+        "id": "999",
+        "name": "shotGlassWithAbsinthe"
+      }
+    },
+    "illarion:item_bottleOfBearSlayerHalf": {
+      "visual": "illarion:items/bottleOfBearSlayerHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfBearSlayerHalf"
+      }
+    },
+    "illarion:item_bottleOfBearSlayerQuarter": {
+      "visual": "illarion:items/bottleOfBearSlayerQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfBearSlayerQuarter"
+      }
+    },
+    "illarion:item_clayShotGlassWithBearSlayer": {
+      "visual": "illarion:items/clayShotGlassWithBearSlayer",
+      "metadata": {
+        "id": "999",
+        "name": "clayShotGlassWithBearSlayer"
+      }
+    },
+    "illarion:item_ceramicShotGlassWithBearSlayer": {
+      "visual": "illarion:items/ceramicShotGlassWithBearSlayer",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicShotGlassWithBearSlayer"
+      }
+    },
+    "illarion:item_ironShotGlassWithBearSlayer": {
+      "visual": "illarion:items/ironShotGlassWithBearSlayer",
+      "metadata": {
+        "id": "999",
+        "name": "ironShotGlassWithBearSlayer"
+      }
+    },
+    "illarion:item_copperShotGlassWithBearSlayer": {
+      "visual": "illarion:items/copperShotGlassWithBearSlayer",
+      "metadata": {
+        "id": "999",
+        "name": "copperShotGlassWithBearSlayer"
+      }
+    },
+    "illarion:item_silverShotGlassWithBearSlayer": {
+      "visual": "illarion:items/silverShotGlassWithBearSlayer",
+      "metadata": {
+        "id": "999",
+        "name": "silverShotGlassWithBearSlayer"
+      }
+    },
+    "illarion:item_goldShotGlassWithBearSlayer": {
+      "visual": "illarion:items/goldShotGlassWithBearSlayer",
+      "metadata": {
+        "id": "999",
+        "name": "goldShotGlassWithBearSlayer"
+      }
+    },
+    "illarion:item_shotGlassWithBearSlayer": {
+      "visual": "illarion:items/shotGlassWithBearSlayer",
+      "metadata": {
+        "id": "999",
+        "name": "shotGlassWithBearSlayer"
+      }
+    },
+    "illarion:item_bottleOfBerryBoozeHalf": {
+      "visual": "illarion:items/bottleOfBerryBoozeHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfBerryBoozeHalf"
+      }
+    },
+    "illarion:item_bottleOfBerryBoozeQuarter": {
+      "visual": "illarion:items/bottleOfBerryBoozeQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfBerryBoozeQuarter"
+      }
+    },
+    "illarion:item_clayShotGlassWithBerryBooze": {
+      "visual": "illarion:items/clayShotGlassWithBerryBooze",
+      "metadata": {
+        "id": "999",
+        "name": "clayShotGlassWithBerryBooze"
+      }
+    },
+    "illarion:item_ceramicShotGlassWithBerryBooze": {
+      "visual": "illarion:items/ceramicShotGlassWithBerryBooze",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicShotGlassWithBerryBooze"
+      }
+    },
+    "illarion:item_ironShotGlassWithBerryBooze": {
+      "visual": "illarion:items/ironShotGlassWithBerryBooze",
+      "metadata": {
+        "id": "999",
+        "name": "ironShotGlassWithBerryBooze"
+      }
+    },
+    "illarion:item_copperShotGlassWithBerryBooze": {
+      "visual": "illarion:items/copperShotGlassWithBerryBooze",
+      "metadata": {
+        "id": "999",
+        "name": "copperShotGlassWithBerryBooze"
+      }
+    },
+    "illarion:item_silverShotGlassWithBerryBooze": {
+      "visual": "illarion:items/silverShotGlassWithBerryBooze",
+      "metadata": {
+        "id": "999",
+        "name": "silverShotGlassWithBerryBooze"
+      }
+    },
+    "illarion:item_goldShotGlassWithBerryBooze": {
+      "visual": "illarion:items/goldShotGlassWithBerryBooze",
+      "metadata": {
+        "id": "999",
+        "name": "goldShotGlassWithBerryBooze"
+      }
+    },
+    "illarion:item_shotGlassWithBerryBooze": {
+      "visual": "illarion:items/shotGlassWithBerryBooze",
+      "metadata": {
+        "id": "999",
+        "name": "shotGlassWithBerryBooze"
+      }
+    },
+    "illarion:item_bottleOfCherrySchnappsHalf": {
+      "visual": "illarion:items/bottleOfCherrySchnappsHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfCherrySchnappsHalf"
+      }
+    },
+    "illarion:item_bottleOfCherrySchnappsQuarter": {
+      "visual": "illarion:items/bottleOfCherrySchnappsQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfCherrySchnappsQuarter"
+      }
+    },
+    "illarion:item_clayShotGlassWithCherrySchnapps": {
+      "visual": "illarion:items/clayShotGlassWithCherrySchnapps",
+      "metadata": {
+        "id": "999",
+        "name": "clayShotGlassWithCherrySchnapps"
+      }
+    },
+    "illarion:item_ceramicShotGlassWithCherrySchnapps": {
+      "visual": "illarion:items/ceramicShotGlassWithCherrySchnapps",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicShotGlassWithCherrySchnapps"
+      }
+    },
+    "illarion:item_ironShotGlassWithCherrySchnapps": {
+      "visual": "illarion:items/ironShotGlassWithCherrySchnapps",
+      "metadata": {
+        "id": "999",
+        "name": "ironShotGlassWithCherrySchnapps"
+      }
+    },
+    "illarion:item_copperShotGlassWithCherrySchnapps": {
+      "visual": "illarion:items/copperShotGlassWithCherrySchnapps",
+      "metadata": {
+        "id": "999",
+        "name": "copperShotGlassWithCherrySchnapps"
+      }
+    },
+    "illarion:item_silverShotGlassWithCherrySchnapps": {
+      "visual": "illarion:items/silverShotGlassWithCherrySchnapps",
+      "metadata": {
+        "id": "999",
+        "name": "silverShotGlassWithCherrySchnapps"
+      }
+    },
+    "illarion:item_goldShotGlassWithCherrySchnapps": {
+      "visual": "illarion:items/goldShotGlassWithCherrySchnapps",
+      "metadata": {
+        "id": "999",
+        "name": "goldShotGlassWithCherrySchnapps"
+      }
+    },
+    "illarion:item_shotGlassWithCherrySchnapps": {
+      "visual": "illarion:items/shotGlassWithCherrySchnapps",
+      "metadata": {
+        "id": "999",
+        "name": "shotGlassWithCherrySchnapps"
+      }
+    },
+    "illarion:item_bottleOfMulledWineHalf": {
+      "visual": "illarion:items/bottleOfMulledWineHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfMulledWineHalf"
+      }
+    },
+    "illarion:item_bottleOfMulledWineQuarter": {
+      "visual": "illarion:items/bottleOfMulledWineQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfMulledWineQuarter"
+      }
+    },
+    "illarion:item_clayShotGlassWithMulledWine": {
+      "visual": "illarion:items/clayShotGlassWithMulledWine",
+      "metadata": {
+        "id": "999",
+        "name": "clayShotGlassWithMulledWine"
+      }
+    },
+    "illarion:item_ceramicShotGlassWithMulledWine": {
+      "visual": "illarion:items/ceramicShotGlassWithMulledWine",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicShotGlassWithMulledWine"
+      }
+    },
+    "illarion:item_ironShotGlassWithMulledWine": {
+      "visual": "illarion:items/ironShotGlassWithMulledWine",
+      "metadata": {
+        "id": "999",
+        "name": "ironShotGlassWithMulledWine"
+      }
+    },
+    "illarion:item_copperShotGlassWithMulledWine": {
+      "visual": "illarion:items/copperShotGlassWithMulledWine",
+      "metadata": {
+        "id": "999",
+        "name": "copperShotGlassWithMulledWine"
+      }
+    },
+    "illarion:item_silverShotGlassWithMulledWine": {
+      "visual": "illarion:items/silverShotGlassWithMulledWine",
+      "metadata": {
+        "id": "999",
+        "name": "silverShotGlassWithMulledWine"
+      }
+    },
+    "illarion:item_goldShotGlassWithMulledWine": {
+      "visual": "illarion:items/goldShotGlassWithMulledWine",
+      "metadata": {
+        "id": "999",
+        "name": "goldShotGlassWithMulledWine"
+      }
+    },
+    "illarion:item_shotGlassWithMulledWine": {
+      "visual": "illarion:items/shotGlassWithMulledWine",
+      "metadata": {
+        "id": "999",
+        "name": "shotGlassWithMulledWine"
+      }
+    },
+    "illarion:item_bottleOfOrangeSchnappsHalf": {
+      "visual": "illarion:items/bottleOfOrangeSchnappsHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfOrangeSchnappsHalf"
+      }
+    },
+    "illarion:item_bottleOfOrangeSchnappsQuarter": {
+      "visual": "illarion:items/bottleOfOrangeSchnappsQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfOrangeSchnappsQuarter"
+      }
+    },
+    "illarion:item_clayShotGlassWithOrangeSchnapps": {
+      "visual": "illarion:items/clayShotGlassWithOrangeSchnapps",
+      "metadata": {
+        "id": "999",
+        "name": "clayShotGlassWithOrangeSchnapps"
+      }
+    },
+    "illarion:item_ceramicShotGlassWithOrangeSchnapps": {
+      "visual": "illarion:items/ceramicShotGlassWithOrangeSchnapps",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicShotGlassWithOrangeSchnapps"
+      }
+    },
+    "illarion:item_ironShotGlassWithOrangeSchnapps": {
+      "visual": "illarion:items/ironShotGlassWithOrangeSchnapps",
+      "metadata": {
+        "id": "999",
+        "name": "ironShotGlassWithOrangeSchnapps"
+      }
+    },
+    "illarion:item_copperShotGlassWithOrangeSchnapps": {
+      "visual": "illarion:items/copperShotGlassWithOrangeSchnapps",
+      "metadata": {
+        "id": "999",
+        "name": "copperShotGlassWithOrangeSchnapps"
+      }
+    },
+    "illarion:item_silverShotGlassWithOrangeSchnapps": {
+      "visual": "illarion:items/silverShotGlassWithOrangeSchnapps",
+      "metadata": {
+        "id": "999",
+        "name": "silverShotGlassWithOrangeSchnapps"
+      }
+    },
+    "illarion:item_goldShotGlassWithOrangeSchnapps": {
+      "visual": "illarion:items/goldShotGlassWithOrangeSchnapps",
+      "metadata": {
+        "id": "999",
+        "name": "goldShotGlassWithOrangeSchnapps"
+      }
+    },
+    "illarion:item_shotGlassWithOrangeSchnapps": {
+      "visual": "illarion:items/shotGlassWithOrangeSchnapps",
+      "metadata": {
+        "id": "999",
+        "name": "shotGlassWithOrangeSchnapps"
+      }
+    },
+    "illarion:item_bottleOfRumHalf": {
+      "visual": "illarion:items/bottleOfRumHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfRumHalf"
+      }
+    },
+    "illarion:item_bottleOfRumQuarter": {
+      "visual": "illarion:items/bottleOfRumQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfRumQuarter"
+      }
+    },
+    "illarion:item_clayShotGlassWithRum": {
+      "visual": "illarion:items/clayShotGlassWithRum",
+      "metadata": {
+        "id": "999",
+        "name": "clayShotGlassWithRum"
+      }
+    },
+    "illarion:item_ceramicShotGlassWithRum": {
+      "visual": "illarion:items/ceramicShotGlassWithRum",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicShotGlassWithRum"
+      }
+    },
+    "illarion:item_ironShotGlassWithRum": {
+      "visual": "illarion:items/ironShotGlassWithRum",
+      "metadata": {
+        "id": "999",
+        "name": "ironShotGlassWithRum"
+      }
+    },
+    "illarion:item_copperShotGlassWithRum": {
+      "visual": "illarion:items/copperShotGlassWithRum",
+      "metadata": {
+        "id": "999",
+        "name": "copperShotGlassWithRum"
+      }
+    },
+    "illarion:item_silverShotGlassWithRum": {
+      "visual": "illarion:items/silverShotGlassWithRum",
+      "metadata": {
+        "id": "999",
+        "name": "silverShotGlassWithRum"
+      }
+    },
+    "illarion:item_goldShotGlassWithRum": {
+      "visual": "illarion:items/goldShotGlassWithRum",
+      "metadata": {
+        "id": "999",
+        "name": "goldShotGlassWithRum"
+      }
+    },
+    "illarion:item_shotGlassWithRum": {
+      "visual": "illarion:items/shotGlassWithRum",
+      "metadata": {
+        "id": "999",
+        "name": "shotGlassWithRum"
+      }
+    },
+    "illarion:item_bottleOfStoneFaceHalf": {
+      "visual": "illarion:items/bottleOfStoneFaceHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfStoneFaceHalf"
+      }
+    },
+    "illarion:item_bottleOfStoneFaceQuarter": {
+      "visual": "illarion:items/bottleOfStoneFaceQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfStoneFaceQuarter"
+      }
+    },
+    "illarion:item_clayShotGlassWithStoneFace": {
+      "visual": "illarion:items/clayShotGlassWithStoneFace",
+      "metadata": {
+        "id": "999",
+        "name": "clayShotGlassWithStoneFace"
+      }
+    },
+    "illarion:item_ceramicShotGlassWithStoneFace": {
+      "visual": "illarion:items/ceramicShotGlassWithStoneFace",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicShotGlassWithStoneFace"
+      }
+    },
+    "illarion:item_ironShotGlassWithStoneFace": {
+      "visual": "illarion:items/ironShotGlassWithStoneFace",
+      "metadata": {
+        "id": "999",
+        "name": "ironShotGlassWithStoneFace"
+      }
+    },
+    "illarion:item_copperShotGlassWithStoneFace": {
+      "visual": "illarion:items/copperShotGlassWithStoneFace",
+      "metadata": {
+        "id": "999",
+        "name": "copperShotGlassWithStoneFace"
+      }
+    },
+    "illarion:item_silverShotGlassWithStoneFace": {
+      "visual": "illarion:items/silverShotGlassWithStoneFace",
+      "metadata": {
+        "id": "999",
+        "name": "silverShotGlassWithStoneFace"
+      }
+    },
+    "illarion:item_goldShotGlassWithStoneFace": {
+      "visual": "illarion:items/goldShotGlassWithStoneFace",
+      "metadata": {
+        "id": "999",
+        "name": "goldShotGlassWithStoneFace"
+      }
+    },
+    "illarion:item_shotGlassWithStoneFace": {
+      "visual": "illarion:items/shotGlassWithStoneFace",
+      "metadata": {
+        "id": "999",
+        "name": "shotGlassWithStoneFace"
+      }
+    },
+    "illarion:item_glassTeapotDruidsTea": {
+      "visual": "illarion:items/glassTeapotDruidsTea",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeapotDruidsTea"
+      }
+    },
+    "illarion:item_bottleOfDruidsTeaHalf": {
+      "visual": "illarion:items/bottleOfDruidsTeaHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfDruidsTeaHalf"
+      }
+    },
+    "illarion:item_glassTeapotDruidsTeaHalf": {
+      "visual": "illarion:items/glassTeapotDruidsTeaHalf",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeapotDruidsTeaHalf"
+      }
+    },
+    "illarion:item_bottleOfDruidsTeaQuarter": {
+      "visual": "illarion:items/bottleOfDruidsTeaQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfDruidsTeaQuarter"
+      }
+    },
+    "illarion:item_glassTeapotDruidsTeaQuarter": {
+      "visual": "illarion:items/glassTeapotDruidsTeaQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeapotDruidsTeaQuarter"
+      }
+    },
+    "illarion:item_teaBottle": {
+      "visual": "illarion:items/teaBottle",
+      "metadata": {
+        "id": "999",
+        "name": "teaBottle"
+      }
+    },
+    "illarion:item_glassTeapot": {
+      "visual": "illarion:items/glassTeapot",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeapot"
+      }
+    },
+    "illarion:item_clayTeaCup": {
+      "visual": "illarion:items/clayTeaCup",
+      "metadata": {
+        "id": "999",
+        "name": "clayTeaCup"
+      }
+    },
+    "illarion:item_clayTeaCupDruid": {
+      "visual": "illarion:items/clayTeaCupDruid",
+      "metadata": {
+        "id": "999",
+        "name": "clayTeaCupDruid"
+      }
+    },
+    "illarion:item_ceramicTeaCup": {
+      "visual": "illarion:items/ceramicTeaCup",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicTeaCup"
+      }
+    },
+    "illarion:item_ceramicTeaCupDruid": {
+      "visual": "illarion:items/ceramicTeaCupDruid",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicTeaCupDruid"
+      }
+    },
+    "illarion:item_ironTeaCup": {
+      "visual": "illarion:items/ironTeaCup",
+      "metadata": {
+        "id": "999",
+        "name": "ironTeaCup"
+      }
+    },
+    "illarion:item_ironTeaCupDruid": {
+      "visual": "illarion:items/ironTeaCupDruid",
+      "metadata": {
+        "id": "999",
+        "name": "ironTeaCupDruid"
+      }
+    },
+    "illarion:item_copperTeaCup": {
+      "visual": "illarion:items/copperTeaCup",
+      "metadata": {
+        "id": "999",
+        "name": "copperTeaCup"
+      }
+    },
+    "illarion:item_copperTeaCupDruid": {
+      "visual": "illarion:items/copperTeaCupDruid",
+      "metadata": {
+        "id": "999",
+        "name": "copperTeaCupDruid"
+      }
+    },
+    "illarion:item_silverTeaCup": {
+      "visual": "illarion:items/silverTeaCup",
+      "metadata": {
+        "id": "999",
+        "name": "silverTeaCup"
+      }
+    },
+    "illarion:item_silverTeaCupDruid": {
+      "visual": "illarion:items/silverTeaCupDruid",
+      "metadata": {
+        "id": "999",
+        "name": "silverTeaCupDruid"
+      }
+    },
+    "illarion:item_goldTeaCup": {
+      "visual": "illarion:items/goldTeaCup",
+      "metadata": {
+        "id": "999",
+        "name": "goldTeaCup"
+      }
+    },
+    "illarion:item_goldTeaCupDruid": {
+      "visual": "illarion:items/goldTeaCupDruid",
+      "metadata": {
+        "id": "999",
+        "name": "goldTeaCupDruid"
+      }
+    },
+    "illarion:item_glassTeaCup": {
+      "visual": "illarion:items/glassTeaCup",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeaCup"
+      }
+    },
+    "illarion:item_glassTeaCupDruid": {
+      "visual": "illarion:items/glassTeaCupDruid",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeaCupDruid"
+      }
+    },
+    "illarion:item_clayTeapot": {
+      "visual": "illarion:items/clayTeapot",
+      "metadata": {
+        "id": "999",
+        "name": "clayTeapot"
+      }
+    },
+    "illarion:item_ceramicTeapot": {
+      "visual": "illarion:items/ceramicTeapot",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicTeapot"
+      }
+    },
+    "illarion:item_ironTeapot": {
+      "visual": "illarion:items/ironTeapot",
+      "metadata": {
+        "id": "999",
+        "name": "ironTeapot"
+      }
+    },
+    "illarion:item_copperTeapot": {
+      "visual": "illarion:items/copperTeapot",
+      "metadata": {
+        "id": "999",
+        "name": "copperTeapot"
+      }
+    },
+    "illarion:item_silverTeapot": {
+      "visual": "illarion:items/silverTeapot",
+      "metadata": {
+        "id": "999",
+        "name": "silverTeapot"
+      }
+    },
+    "illarion:item_goldTeapot": {
+      "visual": "illarion:items/goldTeapot",
+      "metadata": {
+        "id": "999",
+        "name": "goldTeapot"
+      }
+    },
+    "illarion:item_glassTeapotGreenTea": {
+      "visual": "illarion:items/glassTeapotGreenTea",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeapotGreenTea"
+      }
+    },
+    "illarion:item_bottleOfGreenTeaHalf": {
+      "visual": "illarion:items/bottleOfGreenTeaHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfGreenTeaHalf"
+      }
+    },
+    "illarion:item_glassTeapotGreenTeaHalf": {
+      "visual": "illarion:items/glassTeapotGreenTeaHalf",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeapotGreenTeaHalf"
+      }
+    },
+    "illarion:item_bottleOfGreenTeaQuarter": {
+      "visual": "illarion:items/bottleOfGreenTeaQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfGreenTeaQuarter"
+      }
+    },
+    "illarion:item_glassTeapotGreenTeaQuarter": {
+      "visual": "illarion:items/glassTeapotGreenTeaQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeapotGreenTeaQuarter"
+      }
+    },
+    "illarion:item_clayTeaCupGreen": {
+      "visual": "illarion:items/clayTeaCupGreen",
+      "metadata": {
+        "id": "999",
+        "name": "clayTeaCupGreen"
+      }
+    },
+    "illarion:item_ceramicTeaCupGreen": {
+      "visual": "illarion:items/ceramicTeaCupGreen",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicTeaCupGreen"
+      }
+    },
+    "illarion:item_ironTeaCupGreen": {
+      "visual": "illarion:items/ironTeaCupGreen",
+      "metadata": {
+        "id": "999",
+        "name": "ironTeaCupGreen"
+      }
+    },
+    "illarion:item_copperTeaCupGreen": {
+      "visual": "illarion:items/copperTeaCupGreen",
+      "metadata": {
+        "id": "999",
+        "name": "copperTeaCupGreen"
+      }
+    },
+    "illarion:item_silverTeaCupGreen": {
+      "visual": "illarion:items/silverTeaCupGreen",
+      "metadata": {
+        "id": "999",
+        "name": "silverTeaCupGreen"
+      }
+    },
+    "illarion:item_goldTeaCupGreen": {
+      "visual": "illarion:items/goldTeaCupGreen",
+      "metadata": {
+        "id": "999",
+        "name": "goldTeaCupGreen"
+      }
+    },
+    "illarion:item_glassTeaCupGreen": {
+      "visual": "illarion:items/glassTeaCupGreen",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeaCupGreen"
+      }
+    },
+    "illarion:item_glassTeapotFirNeedleTea": {
+      "visual": "illarion:items/glassTeapotFirNeedleTea",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeapotFirNeedleTea"
+      }
+    },
+    "illarion:item_bottleOfFirNeedleTeaHalf": {
+      "visual": "illarion:items/bottleOfFirNeedleTeaHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfFirNeedleTeaHalf"
+      }
+    },
+    "illarion:item_glassTeapotFirNeedleTeaHalf": {
+      "visual": "illarion:items/glassTeapotFirNeedleTeaHalf",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeapotFirNeedleTeaHalf"
+      }
+    },
+    "illarion:item_bottleOfFirNeedleTeaQuarter": {
+      "visual": "illarion:items/bottleOfFirNeedleTeaQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfFirNeedleTeaQuarter"
+      }
+    },
+    "illarion:item_glassTeapotFirNeedleTeaQuarter": {
+      "visual": "illarion:items/glassTeapotFirNeedleTeaQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeapotFirNeedleTeaQuarter"
+      }
+    },
+    "illarion:item_clayTeaCupFirNeedle": {
+      "visual": "illarion:items/clayTeaCupFirNeedle",
+      "metadata": {
+        "id": "999",
+        "name": "clayTeaCupFirNeedle"
+      }
+    },
+    "illarion:item_ceramicTeaCupFirNeedle": {
+      "visual": "illarion:items/ceramicTeaCupFirNeedle",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicTeaCupFirNeedle"
+      }
+    },
+    "illarion:item_ironTeaCupFirNeedle": {
+      "visual": "illarion:items/ironTeaCupFirNeedle",
+      "metadata": {
+        "id": "999",
+        "name": "ironTeaCupFirNeedle"
+      }
+    },
+    "illarion:item_copperTeaCupFirNeedle": {
+      "visual": "illarion:items/copperTeaCupFirNeedle",
+      "metadata": {
+        "id": "999",
+        "name": "copperTeaCupFirNeedle"
+      }
+    },
+    "illarion:item_silverTeaCupFirNeedle": {
+      "visual": "illarion:items/silverTeaCupFirNeedle",
+      "metadata": {
+        "id": "999",
+        "name": "silverTeaCupFirNeedle"
+      }
+    },
+    "illarion:item_goldTeaCupFirNeedle": {
+      "visual": "illarion:items/goldTeaCupFirNeedle",
+      "metadata": {
+        "id": "999",
+        "name": "goldTeaCupFirNeedle"
+      }
+    },
+    "illarion:item_glassTeaCupFirNeedle": {
+      "visual": "illarion:items/glassTeaCupFirNeedle",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeaCupFirNeedle"
+      }
+    },
+    "illarion:item_glassTeapotVirginsWeedTea": {
+      "visual": "illarion:items/glassTeapotVirginsWeedTea",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeapotVirginsWeedTea"
+      }
+    },
+    "illarion:item_bottleOfVirginsWeedTeaHalf": {
+      "visual": "illarion:items/bottleOfVirginsWeedTeaHalf",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfVirginsWeedTeaHalf"
+      }
+    },
+    "illarion:item_glassTeapotVirginsWeedTeaHalf": {
+      "visual": "illarion:items/glassTeapotVirginsWeedTeaHalf",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeapotVirginsWeedTeaHalf"
+      }
+    },
+    "illarion:item_bottleOfVirginsWeedTeaQuarter": {
+      "visual": "illarion:items/bottleOfVirginsWeedTeaQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "bottleOfVirginsWeedTeaQuarter"
+      }
+    },
+    "illarion:item_glassTeapotVirginsWeedTeaQuarter": {
+      "visual": "illarion:items/glassTeapotVirginsWeedTeaQuarter",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeapotVirginsWeedTeaQuarter"
+      }
+    },
+    "illarion:item_clayTeaCupVirginWeed": {
+      "visual": "illarion:items/clayTeaCupVirginWeed",
+      "metadata": {
+        "id": "999",
+        "name": "clayTeaCupVirginWeed"
+      }
+    },
+    "illarion:item_ceramicTeaCupVirginWeed": {
+      "visual": "illarion:items/ceramicTeaCupVirginWeed",
+      "metadata": {
+        "id": "999",
+        "name": "ceramicTeaCupVirginWeed"
+      }
+    },
+    "illarion:item_ironTeaCupVirginWeed": {
+      "visual": "illarion:items/ironTeaCupVirginWeed",
+      "metadata": {
+        "id": "999",
+        "name": "ironTeaCupVirginWeed"
+      }
+    },
+    "illarion:item_copperTeaCupVirginWeed": {
+      "visual": "illarion:items/copperTeaCupVirginWeed",
+      "metadata": {
+        "id": "999",
+        "name": "copperTeaCupVirginWeed"
+      }
+    },
+    "illarion:item_silverTeaCupVirginWeed": {
+      "visual": "illarion:items/silverTeaCupVirginWeed",
+      "metadata": {
+        "id": "999",
+        "name": "silverTeaCupVirginWeed"
+      }
+    },
+    "illarion:item_goldTeaCupVirginWeed": {
+      "visual": "illarion:items/goldTeaCupVirginWeed",
+      "metadata": {
+        "id": "999",
+        "name": "goldTeaCupVirginWeed"
+      }
+    },
+    "illarion:item_glassTeaCupVirginWeed": {
+      "visual": "illarion:items/glassTeaCupVirginWeed",
+      "metadata": {
+        "id": "999",
+        "name": "glassTeaCupVirginWeed"
+      }
+    },
+    "illarion:item_blueberryJuice": {
+      "visual": "illarion:items/blueberryJuice",
+      "metadata": {
+        "id": "999",
+        "name": "blueberryJuice"
+      }
+    },
+    "illarion:item_cloudberryJuice": {
+      "visual": "illarion:items/cloudberryJuice",
+      "metadata": {
+        "id": "999",
+        "name": "cloudberryJuice"
+      }
+    },
+    "illarion:item_raspberryJuice": {
+      "visual": "illarion:items/raspberryJuice",
+      "metadata": {
+        "id": "999",
+        "name": "raspberryJuice"
+      }
+    },
+    "illarion:item_deerberryJuice": {
+      "visual": "illarion:items/deerberryJuice",
+      "metadata": {
+        "id": "999",
+        "name": "deerberryJuice"
+      }
+    },
+    "illarion:item_elderberryJuice": {
+      "visual": "illarion:items/elderberryJuice",
+      "metadata": {
+        "id": "999",
+        "name": "elderberryJuice"
+      }
+    },
+    "illarion:item_vegetableJuiceBottle": {
+      "visual": "illarion:items/vegetableJuiceBottle",
+      "metadata": {
+        "id": "999",
+        "name": "vegetableJuiceBottle"
+      }
+    },
+    "illarion:item_bellpepperJuice": {
+      "visual": "illarion:items/bellpepperJuice",
+      "metadata": {
+        "id": "999",
+        "name": "bellpepperJuice"
+      }
+    },
+    "illarion:item_cucumberJuice": {
+      "visual": "illarion:items/cucumberJuice",
+      "metadata": {
+        "id": "999",
+        "name": "cucumberJuice"
+      }
+    },
+    "illarion:item_pumpkinJuice": {
+      "visual": "illarion:items/pumpkinJuice",
+      "metadata": {
+        "id": "999",
+        "name": "pumpkinJuice"
+      }
+    },
+    "illarion:item_tomatoJuice": {
+      "visual": "illarion:items/tomatoJuice",
+      "metadata": {
+        "id": "999",
+        "name": "tomatoJuice"
+      }
+    },
+    "illarion:item_fruitJuiceBottle": {
+      "visual": "illarion:items/fruitJuiceBottle",
+      "metadata": {
+        "id": "999",
+        "name": "fruitJuiceBottle"
+      }
+    },
+    "illarion:item_appleJuice": {
+      "visual": "illarion:items/appleJuice",
+      "metadata": {
+        "id": "999",
+        "name": "appleJuice"
+      }
+    },
+    "illarion:item_cherryJuice": {
+      "visual": "illarion:items/cherryJuice",
+      "metadata": {
+        "id": "999",
+        "name": "cherryJuice"
+      }
+    },
+    "illarion:item_pearJuice": {
+      "visual": "illarion:items/pearJuice",
+      "metadata": {
+        "id": "999",
+        "name": "pearJuice"
+      }
+    },
+    "illarion:item_mangoJuice": {
+      "visual": "illarion:items/mangoJuice",
+      "metadata": {
+        "id": "999",
+        "name": "mangoJuice"
+      }
+    },
+    "illarion:item_peachJuice": {
+      "visual": "illarion:items/peachJuice",
+      "metadata": {
+        "id": "999",
+        "name": "peachJuice"
+      }
+    },
+    "illarion:item_plumJuice": {
+      "visual": "illarion:items/plumJuice",
+      "metadata": {
+        "id": "999",
+        "name": "plumJuice"
+      }
+    },
+    "illarion:item_pineappleJuice": {
+      "visual": "illarion:items/pineappleJuice",
+      "metadata": {
+        "id": "999",
+        "name": "pineappleJuice"
+      }
+    },
+    "illarion:item_clayBeerMugHalf": {
+      "visual": "illarion:items/clayBeerMugHalf",
+      "metadata": {
+        "id": "999",
+        "name": "clayBeerMugHalf"
+      }
+    }
+  }
+}
