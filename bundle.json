@@ -409,6 +409,8 @@
     "triggerfield.runewick_patrol_3": "server/lua/triggerfield/runewick_patrol_3.lua",
     "triggerfield.volcano_chest": "server/lua/triggerfield/volcano_chest.lua",
     "triggerfield.zelphiasStream": "server/lua/triggerfield/zelphiasStream.lua",
-    "server.login": "server/lua/server/login.lua"
+    "server.login": "server/lua/server/login.lua",
+    "server.logout": "server/lua/server/logout.lua",
+    "server.reload": "server/lua/server/reload.lua"
   }
 }
