@@ -412,6 +412,7 @@
     "server.learn": "server/lua/server/learn.lua",
     "server.login": "server/lua/server/login.lua",
     "server.logout": "server/lua/server/logout.lua",
-    "server.reload": "server/lua/server/reload.lua"
+    "server.reload": "server/lua/server/reload.lua",
+    "server.standardfighting": "server/lua/server/standardfighting.lua"
   }
 }
