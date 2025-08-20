@@ -395,7 +395,11 @@
     "scheduled.safe_zones": "server/lua/scheduled/safe_zones.lua",
     "scheduled.scheduledFunction": "server/lua/scheduled/scheduledFunction.lua",
     "scheduled.spawn_treasure": "server/lua/scheduled/spawn_treasure.lua",
+    "server.learn": "server/lua/server/learn.lua",
+    "server.login": "server/lua/server/login.lua",
+    "server.logout": "server/lua/server/logout.lua",
     "server.playerlookat": "server/lua/server/playerlookat.lua",
+    "server.reload": "server/lua/server/reload.lua",
     "server.standardfighting": "server/lua/server/standardfighting.lua",
     "triggerfield.altars": "server/lua/triggerfield/altars.lua",
     "triggerfield.aquestionofhonour_3": "server/lua/triggerfield/aquestionofhonour_3.lua",
@@ -408,11 +412,6 @@
     "triggerfield.potionToTeacher": "server/lua/triggerfield/potionToTeacher.lua",
     "triggerfield.runewick_patrol_3": "server/lua/triggerfield/runewick_patrol_3.lua",
     "triggerfield.volcano_chest": "server/lua/triggerfield/volcano_chest.lua",
-    "triggerfield.zelphiasStream": "server/lua/triggerfield/zelphiasStream.lua",
-    "server.learn": "server/lua/server/learn.lua",
-    "server.login": "server/lua/server/login.lua",
-    "server.logout": "server/lua/server/logout.lua",
-    "server.reload": "server/lua/server/reload.lua",
-    "server.standardfighting": "server/lua/server/standardfighting.lua"
+    "triggerfield.zelphiasStream": "server/lua/triggerfield/zelphiasStream.lua"
   }
 }
