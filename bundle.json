@@ -3197,22 +3197,6 @@
       "file": "server/lua/npc/base/trade.lua",
       "encoding": "ISO-8859-15"
     },
-    "npc.hairdresser": {
-      "file": "server/lua/npc/hairdresser.lua",
-      "encoding": "ISO-8859-15"
-    },
-    "npc.petMaster": {
-      "file": "server/lua/npc/petMaster.lua",
-      "encoding": "ISO-8859-15"
-    },
-    "npc.sepp_leaf": {
-      "file": "server/lua/npc/sepp_leaf.lua",
-      "encoding": "ISO-8859-15"
-    },
-    "npc.yellowcross": {
-      "file": "server/lua/npc/yellowcross.lua",
-      "encoding": "ISO-8859-15"
-    },
     "quest.aelfinn_515_wilderness": {
       "file": "server/lua/quest/aelfinn_515_wilderness.lua",
       "encoding": "ISO-8859-15"
@@ -4249,7 +4233,798 @@
       "file": "server/lua/triggerfield/zelphiasStream.lua",
       "encoding": "ISO-8859-15"
     },
-    "triggerfield.zzarnkskaofzelphia": "server/lua/triggerfield/zzarnkskaofzelphia.lua"
+    "triggerfield.zzarnkskaofzelphia": {
+      "file": "server/lua/triggerfield/zzarnkskaofzelphia.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.ada_golweneth": {
+      "file": "server/lua/npc/ada_golweneth.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_animositas": {
+      "file": "server/lua/npc/defensor_animositas.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.gava_northstar": {
+      "file": "server/lua/npc/gava_northstar.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.lotta_medborgar": {
+      "file": "server/lua/npc/lotta_medborgar.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.russet": {
+      "file": "server/lua/npc/russet.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.advari_stonebog": {
+      "file": "server/lua/npc/advari_stonebog.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_animus": {
+      "file": "server/lua/npc/defensor_animus.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.george_backstab": {
+      "file": "server/lua/npc/george_backstab.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.lotte_silberstreif": {
+      "file": "server/lua/npc/lotte_silberstreif.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.rutrus": {
+      "file": "server/lua/npc/rutrus.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.aelfinn": {
+      "file": "server/lua/npc/aelfinn.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_confirmo": {
+      "file": "server/lua/npc/defensor_confirmo.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.giesela_evergreen": {
+      "file": "server/lua/npc/giesela_evergreen.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.madeline_clarbelis": {
+      "file": "server/lua/npc/madeline_clarbelis.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.ruzusss": {
+      "file": "server/lua/npc/ruzusss.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.alexis_dostas": {
+      "file": "server/lua/npc/alexis_dostas.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_delinificus": {
+      "file": "server/lua/npc/defensor_delinificus.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.gorgophone": {
+      "file": "server/lua/npc/gorgophone.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.madoquar": {
+      "file": "server/lua/npc/madoquar.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.sam": {
+      "file": "server/lua/npc/sam.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.alwin_sommerkorn": {
+      "file": "server/lua/npc/alwin_sommerkorn.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_depello": {
+      "file": "server/lua/npc/defensor_depello.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.grakamesh": {
+      "file": "server/lua/npc/grakamesh.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.maelyrra_umrielyth": {
+      "file": "server/lua/npc/maelyrra_umrielyth.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.saren_eisenfaust": {
+      "file": "server/lua/npc/saren_eisenfaust.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.alysa_lorthelia": {
+      "file": "server/lua/npc/alysa_lorthelia.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_diluo": {
+      "file": "server/lua/npc/defensor_diluo.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.granor_bergenhieb": {
+      "file": "server/lua/npc/granor_bergenhieb.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.manuel_salan": {
+      "file": "server/lua/npc/manuel_salan.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.seleseth": {
+      "file": "server/lua/npc/seleseth.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.andrei_kazakov": {
+      "file": "server/lua/npc/andrei_kazakov.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_extremus": {
+      "file": "server/lua/npc/defensor_extremus.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.grator_bottlebreak": {
+      "file": "server/lua/npc/grator_bottlebreak.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.marcus_steinholden": {
+      "file": "server/lua/npc/marcus_steinholden.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.senka": {
+      "file": "server/lua/npc/senka.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.angelo_rothman": {
+      "file": "server/lua/npc/angelo_rothman.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_fervor": {
+      "file": "server/lua/npc/defensor_fervor.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.graznok": {
+      "file": "server/lua/npc/graznok.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.marianne_forgeron": {
+      "file": "server/lua/npc/marianne_forgeron.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.sepp_leaf": {
+      "file": "server/lua/npc/sepp_leaf.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.anthar_vilicon": {
+      "file": "server/lua/npc/anthar_vilicon.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_impetus": {
+      "file": "server/lua/npc/defensor_impetus.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.gregor_remethar": {
+      "file": "server/lua/npc/gregor_remethar.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.matti_schwan": {
+      "file": "server/lua/npc/matti_schwan.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.severus_rabon": {
+      "file": "server/lua/npc/severus_rabon.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.anthony_devries": {
+      "file": "server/lua/npc/anthony_devries.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_infirmo": {
+      "file": "server/lua/npc/defensor_infirmo.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.gretel_goldhair": {
+      "file": "server/lua/npc/gretel_goldhair.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.melanie_meadowlark": {
+      "file": "server/lua/npc/melanie_meadowlark.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.sir_fludnar_yednos": {
+      "file": "server/lua/npc/sir_fludnar_yednos.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.antonius_copperhand": {
+      "file": "server/lua/npc/antonius_copperhand.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_iracundia": {
+      "file": "server/lua/npc/defensor_iracundia.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.grijas_kokotte": {
+      "file": "server/lua/npc/grijas_kokotte.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.metylda_lockleigh": {
+      "file": "server/lua/npc/metylda_lockleigh.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.sogg_beermug": {
+      "file": "server/lua/npc/sogg_beermug.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.arenius_batavius": {
+      "file": "server/lua/npc/arenius_batavius.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_mando": {
+      "file": "server/lua/npc/defensor_mando.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.grimlug": {
+      "file": "server/lua/npc/grimlug.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.miggs": {
+      "file": "server/lua/npc/miggs.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.ssalva": {
+      "file": "server/lua/npc/ssalva.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.argentus_almsbag": {
+      "file": "server/lua/npc/argentus_almsbag.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_profligo": {
+      "file": "server/lua/npc/defensor_profligo.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.groktan_flintsplit": {
+      "file": "server/lua/npc/groktan_flintsplit.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.milo_deepdelver": {
+      "file": "server/lua/npc/milo_deepdelver.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.ssiguss": {
+      "file": "server/lua/npc/ssiguss.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.arno_unterland": {
+      "file": "server/lua/npc/arno_unterland.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_prohibeo": {
+      "file": "server/lua/npc/defensor_prohibeo.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.gurzad_gutri": {
+      "file": "server/lua/npc/gurzad_gutri.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.mirarie_bragolin": {
+      "file": "server/lua/npc/mirarie_bragolin.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.terry_ogg": {
+      "file": "server/lua/npc/terry_ogg.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.bainien_grythil": {
+      "file": "server/lua/npc/bainien_grythil.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_robur": {
+      "file": "server/lua/npc/defensor_robur.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.hagar_wernson": {
+      "file": "server/lua/npc/hagar_wernson.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.morri": {
+      "file": "server/lua/npc/morri.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.thomas_dalenus": {
+      "file": "server/lua/npc/thomas_dalenus.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.baldo_proudtoe": {
+      "file": "server/lua/npc/baldo_proudtoe.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_sancio": {
+      "file": "server/lua/npc/defensor_sancio.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.hairdresser": {
+      "file": "server/lua/npc/hairdresser.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.myrthe_mildthorn": {
+      "file": "server/lua/npc/myrthe_mildthorn.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.thomas_weste": {
+      "file": "server/lua/npc/thomas_weste.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.bathelor": {
+      "file": "server/lua/npc/bathelor.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_torrens": {
+      "file": "server/lua/npc/defensor_torrens.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.half-hung_bryan": {
+      "file": "server/lua/npc/half-hung_bryan.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.nadime": {
+      "file": "server/lua/npc/nadime.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.thorgrem_silverbeard": {
+      "file": "server/lua/npc/thorgrem_silverbeard.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.beror_oakaxe": {
+      "file": "server/lua/npc/beror_oakaxe.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_transfodio": {
+      "file": "server/lua/npc/defensor_transfodio.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.hassan": {
+      "file": "server/lua/npc/hassan.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.nana_winterbutter": {
+      "file": "server/lua/npc/nana_winterbutter.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.timotheus": {
+      "file": "server/lua/npc/timotheus.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.blight_ronin": {
+      "file": "server/lua/npc/blight_ronin.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_transmutatio": {
+      "file": "server/lua/npc/defensor_transmutatio.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.hector_valerion": {
+      "file": "server/lua/npc/hector_valerion.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.neiran_el_nyarale": {
+      "file": "server/lua/npc/neiran_el_nyarale.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.tobis_vunu": {
+      "file": "server/lua/npc/tobis_vunu.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.borgate_northoff": {
+      "file": "server/lua/npc/borgate_northoff.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_venenatus": {
+      "file": "server/lua/npc/defensor_venenatus.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.henning_broomshrub": {
+      "file": "server/lua/npc/henning_broomshrub.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.nik_nilo": {
+      "file": "server/lua/npc/nik_nilo.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.tony_spirotelli": {
+      "file": "server/lua/npc/tony_spirotelli.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.boumaug_firesmash": {
+      "file": "server/lua/npc/boumaug_firesmash.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_volnus": {
+      "file": "server/lua/npc/defensor_volnus.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.henry_cunnigan": {
+      "file": "server/lua/npc/henry_cunnigan.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.nimbur_goldbrew": {
+      "file": "server/lua/npc/nimbur_goldbrew.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.torina_scibrim": {
+      "file": "server/lua/npc/torina_scibrim.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.brassius_meres": {
+      "file": "server/lua/npc/brassius_meres.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.dion_rhoditis": {
+      "file": "server/lua/npc/dion_rhoditis.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.henry_darter": {
+      "file": "server/lua/npc/henry_darter.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.nizar": {
+      "file": "server/lua/npc/nizar.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.truciolo_pialla": {
+      "file": "server/lua/npc/truciolo_pialla.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.bre_southstar": {
+      "file": "server/lua/npc/bre_southstar.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.dreal_coalbreaker": {
+      "file": "server/lua/npc/dreal_coalbreaker.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.hook_gowan": {
+      "file": "server/lua/npc/hook_gowan.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.nobarg": {
+      "file": "server/lua/npc/nobarg.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.uriel_urch": {
+      "file": "server/lua/npc/uriel_urch.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.brigette_russ": {
+      "file": "server/lua/npc/brigette_russ.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.egon": {
+      "file": "server/lua/npc/egon.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.horatio_milenus": {
+      "file": "server/lua/npc/horatio_milenus.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.npc_template": {
+      "file": "server/lua/npc/npc_template.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.valandil_elensar": {
+      "file": "server/lua/npc/valandil_elensar.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.bruno_blackhole": {
+      "file": "server/lua/npc/bruno_blackhole.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.ehrom_goldhammer": {
+      "file": "server/lua/npc/ehrom_goldhammer.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.imos_dutin": {
+      "file": "server/lua/npc/imos_dutin.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.numila_irunnleh": {
+      "file": "server/lua/npc/numila_irunnleh.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.valerio_guilianni": {
+      "file": "server/lua/npc/valerio_guilianni.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.brute_booze": {
+      "file": "server/lua/npc/brute_booze.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.eklob": {
+      "file": "server/lua/npc/eklob.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.ioannes_faber": {
+      "file": "server/lua/npc/ioannes_faber.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.obsidimine": {
+      "file": "server/lua/npc/obsidimine.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.vallaria_medrota": {
+      "file": "server/lua/npc/vallaria_medrota.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.bula_glasha": {
+      "file": "server/lua/npc/bula_glasha.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.eleanor_fairbanks": {
+      "file": "server/lua/npc/eleanor_fairbanks.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.iradona_goldschein": {
+      "file": "server/lua/npc/iradona_goldschein.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.palis_nestros": {
+      "file": "server/lua/npc/palis_nestros.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.viola_baywillow": {
+      "file": "server/lua/npc/viola_baywillow.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.cassandra_hestan": {
+      "file": "server/lua/npc/cassandra_hestan.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.elesil_daelwon": {
+      "file": "server/lua/npc/elesil_daelwon.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.jacobus": {
+      "file": "server/lua/npc/jacobus.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.pasinn": {
+      "file": "server/lua/npc/pasinn.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.william_daloire": {
+      "file": "server/lua/npc/william_daloire.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.cato_lupis": {
+      "file": "server/lua/npc/cato_lupis.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.elvaine_morgan": {
+      "file": "server/lua/npc/elvaine_morgan.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.jeremiah_horanfeld": {
+      "file": "server/lua/npc/jeremiah_horanfeld.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.paula_bronzeblatt": {
+      "file": "server/lua/npc/paula_bronzeblatt.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.willow": {
+      "file": "server/lua/npc/willow.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.charwis_irongate": {
+      "file": "server/lua/npc/charwis_irongate.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.eugene_burton": {
+      "file": "server/lua/npc/eugene_burton.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.jonathan_cyrus": {
+      "file": "server/lua/npc/jonathan_cyrus.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.percy_dryless": {
+      "file": "server/lua/npc/percy_dryless.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.wulfgorda": {
+      "file": "server/lua/npc/wulfgorda.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.cilivren_itiireae": {
+      "file": "server/lua/npc/cilivren_itiireae.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.fijanna_squall": {
+      "file": "server/lua/npc/fijanna_squall.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.joseph_quatrilla": {
+      "file": "server/lua/npc/joseph_quatrilla.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.pesnar_rolemnes": {
+      "file": "server/lua/npc/pesnar_rolemnes.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.xiao_dongzou": {
+      "file": "server/lua/npc/xiao_dongzou.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.clarissa_cullen": {
+      "file": "server/lua/npc/clarissa_cullen.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.flori": {
+      "file": "server/lua/npc/flori.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.kaitza": {
+      "file": "server/lua/npc/kaitza.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.petMaster": {
+      "file": "server/lua/npc/petMaster.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.yellowcross": {
+      "file": "server/lua/npc/yellowcross.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.cormac": {
+      "file": "server/lua/npc/cormac.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.fokous_onyxbrow": {
+      "file": "server/lua/npc/fokous_onyxbrow.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.krudash": {
+      "file": "server/lua/npc/krudash.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.pheritaleth": {
+      "file": "server/lua/npc/pheritaleth.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.zaida": {
+      "file": "server/lua/npc/zaida.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.corporal_piero": {
+      "file": "server/lua/npc/corporal_piero.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.francine_leonard": {
+      "file": "server/lua/npc/francine_leonard.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.laramir_silverwood": {
+      "file": "server/lua/npc/laramir_silverwood.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.philipp_molitor": {
+      "file": "server/lua/npc/philipp_molitor.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.zassaria_riverbank": {
+      "file": "server/lua/npc/zassaria_riverbank.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.curly": {
+      "file": "server/lua/npc/curly.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.francois_delacroix": {
+      "file": "server/lua/npc/francois_delacroix.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.laura_pepperbags": {
+      "file": "server/lua/npc/laura_pepperbags.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.raban": {
+      "file": "server/lua/npc/raban.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.zenia": {
+      "file": "server/lua/npc/zenia.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.daerbur_wimbert": {
+      "file": "server/lua/npc/daerbur_wimbert.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.fredericus": {
+      "file": "server/lua/npc/fredericus.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.lilith_needlehand": {
+      "file": "server/lua/npc/lilith_needlehand.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.reret_odohir": {
+      "file": "server/lua/npc/reret_odohir.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.zerarisa": {
+      "file": "server/lua/npc/zerarisa.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.dale_daeon": {
+      "file": "server/lua/npc/dale_daeon.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.frederik_silvereye": {
+      "file": "server/lua/npc/frederik_silvereye.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.lilli_gallfing": {
+      "file": "server/lua/npc/lilli_gallfing.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.robertus": {
+      "file": "server/lua/npc/robertus.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.zlatxhol": {
+      "file": "server/lua/npc/zlatxhol.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.daniel_brock": {
+      "file": "server/lua/npc/daniel_brock.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.frizza": {
+      "file": "server/lua/npc/frizza.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.linda_rabon": {
+      "file": "server/lua/npc/linda_rabon.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.rosaline_edwards": {
+      "file": "server/lua/npc/rosaline_edwards.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.decius_cerasus_industrius": {
+      "file": "server/lua/npc/decius_cerasus_industrius.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.frobenius": {
+      "file": "server/lua/npc/frobenius.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.lobely": {
+      "file": "server/lua/npc/lobely.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.rose_deepdelver": {
+      "file": "server/lua/npc/rose_deepdelver.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.defensor_affligo": {
+      "file": "server/lua/npc/defensor_affligo.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.fronita_emery": {
+      "file": "server/lua/npc/fronita_emery.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.lothar_piero": {
+      "file": "server/lua/npc/lothar_piero.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "npc.ruggero_bloom": {
+      "file": "server/lua/npc/ruggero_bloom.lua",
+      "encoding": "ISO-8859-15"
+    }
   },
   "transformers": [
     "transformers/iso-8859-1.lua",
