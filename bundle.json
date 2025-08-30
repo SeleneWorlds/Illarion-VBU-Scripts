@@ -5027,7 +5027,6 @@
     }
   },
   "transformers": [
-    "transformers/iso-8859-1.lua",
     "transformers/fix-syntax-error.lua"
   ]
 }
