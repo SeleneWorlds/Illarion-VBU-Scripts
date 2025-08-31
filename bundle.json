@@ -5025,8 +5025,5 @@
       "file": "server/lua/npc/ruggero_bloom.lua",
       "encoding": "ISO-8859-15"
     }
-  },
-  "transformers": [
-    "transformers/fix-syntax-error.lua"
-  ]
+  }
 }
