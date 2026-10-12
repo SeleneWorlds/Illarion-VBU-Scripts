@@ -41,6 +41,10 @@
       "file": "server/lua/alchemy/base/teacher.lua",
       "encoding": "ISO-8859-15"
     },
+    "alchemy.bottling": {
+      "file": "server/lua/alchemy/bottling.lua",
+      "encoding": "ISO-8859-15"
+    },
     "alchemy.item.id_165_blue_bottle": {
       "file": "server/lua/alchemy/item/id_165_blue_bottle.lua",
       "encoding": "ISO-8859-15"
@@ -103,6 +107,10 @@
     },
     "alchemy.lte.id_59_attribs": {
       "file": "server/lua/alchemy/lte/id_59_attribs.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "alchemy.potions": {
+      "file": "server/lua/alchemy/potions.lua",
       "encoding": "ISO-8859-15"
     },
     "alchemy.teaching.playerInventedPotions": {
@@ -417,6 +425,10 @@
       "file": "server/lua/craft/base/shared.lua",
       "encoding": "ISO-8859-15"
     },
+    "craft.cookingRecipeCreation": {
+      "file": "server/lua/craft/cookingRecipeCreation.lua",
+      "encoding": "ISO-8859-15"
+    },
     "craft.final.armourer": {
       "file": "server/lua/craft/final/armourer.lua",
       "encoding": "ISO-8859-15"
@@ -547,6 +559,10 @@
     },
     "craft.intermediate.casting": {
       "file": "server/lua/craft/intermediate/casting.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "craft.intermediate.doughmaking": {
+      "file": "server/lua/craft/intermediate/doughmaking.lua",
       "encoding": "ISO-8859-15"
     },
     "craft.intermediate.dyeing": {
@@ -809,6 +825,10 @@
       "file": "server/lua/item/clavichord.lua",
       "encoding": "ISO-8859-15"
     },
+    "item.curtains": {
+      "file": "server/lua/item/curtains.lua",
+      "encoding": "ISO-8859-15"
+    },
     "item.desk": {
       "file": "server/lua/item/desk.lua",
       "encoding": "ISO-8859-15"
@@ -883,6 +903,10 @@
     },
     "item.harvest": {
       "file": "server/lua/item/harvest.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "item.herb": {
+      "file": "server/lua/item/herb.lua",
       "encoding": "ISO-8859-15"
     },
     "item.id_1001_greenplate": {
@@ -1405,6 +1429,10 @@
       "file": "server/lua/item/magicgems.lua",
       "encoding": "ISO-8859-15"
     },
+    "item.mapStand": {
+      "file": "server/lua/item/mapStand.lua",
+      "encoding": "ISO-8859-15"
+    },
     "item.nests": {
       "file": "server/lua/item/nests.lua",
       "encoding": "ISO-8859-15"
@@ -1421,12 +1449,20 @@
       "file": "server/lua/item/pillar.lua",
       "encoding": "ISO-8859-15"
     },
+    "item.rasp": {
+      "file": "server/lua/item/rasp.lua",
+      "encoding": "ISO-8859-15"
+    },
     "item.rings": {
       "file": "server/lua/item/rings.lua",
       "encoding": "ISO-8859-15"
     },
     "item.rock": {
       "file": "server/lua/item/rock.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "item.rolling_pin": {
+      "file": "server/lua/item/rolling_pin.lua",
       "encoding": "ISO-8859-15"
     },
     "item.seeds": {
@@ -1551,6 +1587,10 @@
     },
     "lte.drinkEffect": {
       "file": "server/lua/lte/drinkEffect.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "lte.druid_tutorial_meditation": {
+      "file": "server/lua/lte/druid_tutorial_meditation.lua",
       "encoding": "ISO-8859-15"
     },
     "lte.druids_escape": {
@@ -1965,6 +2005,10 @@
       "file": "server/lua/magic/arcane/spirit/terrain.lua",
       "encoding": "ISO-8859-15"
     },
+    "magic.arcane.spirit.threat": {
+      "file": "server/lua/magic/arcane/spirit/threat.lua",
+      "encoding": "ISO-8859-15"
+    },
     "magic.arcane.spirit.types": {
       "file": "server/lua/magic/arcane/spirit/types.lua",
       "encoding": "ISO-8859-15"
@@ -1995,6 +2039,90 @@
     },
     "magic.base.antiTroll": {
       "file": "server/lua/magic/base/antiTroll.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.cast": {
+      "file": "server/lua/magic/nature/cast.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.cor_staff": {
+      "file": "server/lua/magic/nature/cor_staff.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.dealDamage": {
+      "file": "server/lua/magic/nature/dealDamage.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.effects.akingwynt": {
+      "file": "server/lua/magic/nature/effects/akingwynt.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.effects.echogwynt": {
+      "file": "server/lua/magic/nature/effects/echogwynt.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.effects.entangwynt": {
+      "file": "server/lua/magic/nature/effects/entangwynt.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.effects.incigwynt": {
+      "file": "server/lua/magic/nature/effects/incigwynt.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.effects.pulsegwynt": {
+      "file": "server/lua/magic/nature/effects/pulsegwynt.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.effects.rebugwynt": {
+      "file": "server/lua/magic/nature/effects/rebugwynt.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.effects.seegwynt": {
+      "file": "server/lua/magic/nature/effects/seegwynt.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.effects.sergwynt": {
+      "file": "server/lua/magic/nature/effects/sergwynt.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.effects.template": {
+      "file": "server/lua/magic/nature/effects/template.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.effects.toxgwynt": {
+      "file": "server/lua/magic/nature/effects/toxgwynt.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.effects.whisgwynt": {
+      "file": "server/lua/magic/nature/effects/whisgwynt.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.poison": {
+      "file": "server/lua/magic/nature/poison.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.seers_cauldron": {
+      "file": "server/lua/magic/nature/seers_cauldron.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.shared": {
+      "file": "server/lua/magic/nature/shared.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.sigil": {
+      "file": "server/lua/magic/nature/sigil.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.spells": {
+      "file": "server/lua/magic/nature/spells.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.weavers_pouch": {
+      "file": "server/lua/magic/nature/weavers_pouch.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "magic.nature.weavers_stump": {
+      "file": "server/lua/magic/nature/weavers_stump.lua",
       "encoding": "ISO-8859-15"
     },
     "magic.tutorials": {
@@ -3317,6 +3445,42 @@
       "file": "server/lua/quest/decius_cerasus_160_runewick.lua",
       "encoding": "ISO-8859-15"
     },
+    "quest.druid_tutorial_691": {
+      "file": "server/lua/quest/druid_tutorial_691.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "quest.druid_tutorial_692": {
+      "file": "server/lua/quest/druid_tutorial_692.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "quest.druid_tutorial_693": {
+      "file": "server/lua/quest/druid_tutorial_693.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "quest.druid_tutorial_694": {
+      "file": "server/lua/quest/druid_tutorial_694.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "quest.druid_tutorial_695": {
+      "file": "server/lua/quest/druid_tutorial_695.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "quest.druid_tutorial_696": {
+      "file": "server/lua/quest/druid_tutorial_696.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "quest.druid_tutorial_697": {
+      "file": "server/lua/quest/druid_tutorial_697.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "quest.druid_tutorial_698": {
+      "file": "server/lua/quest/druid_tutorial_698.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "quest.druid_tutorial_699": {
+      "file": "server/lua/quest/druid_tutorial_699.lua",
+      "encoding": "ISO-8859-15"
+    },
     "quest.ehrom_goldhammer_72_wilderness": {
       "file": "server/lua/quest/ehrom_goldhammer_72_wilderness.lua",
       "encoding": "ISO-8859-15"
@@ -3955,6 +4119,10 @@
     },
     "triggerfield.dragorog_cult_trigger": {
       "file": "server/lua/triggerfield/dragorog_cult_trigger.lua",
+      "encoding": "ISO-8859-15"
+    },
+    "triggerfield.druid_tutorial_meditation": {
+      "file": "server/lua/triggerfield/druid_tutorial_meditation.lua",
       "encoding": "ISO-8859-15"
     },
     "triggerfield.elstree_air_661": {
