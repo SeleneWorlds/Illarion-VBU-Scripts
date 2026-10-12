@@ -45,46 +45,6 @@
       "file": "server/lua/alchemy/bottling.lua",
       "encoding": "ISO-8859-15"
     },
-    "alchemy.item.id_165_blue_bottle": {
-      "file": "server/lua/alchemy/item/id_165_blue_bottle.lua",
-      "encoding": "ISO-8859-15"
-    },
-    "alchemy.item.id_166_pink_bottle": {
-      "file": "server/lua/alchemy/item/id_166_pink_bottle.lua",
-      "encoding": "ISO-8859-15"
-    },
-    "alchemy.item.id_167_yellow_bottle": {
-      "file": "server/lua/alchemy/item/id_167_yellow_bottle.lua",
-      "encoding": "ISO-8859-15"
-    },
-    "alchemy.item.id_327_blue_bottle": {
-      "file": "server/lua/alchemy/item/id_327_blue_bottle.lua",
-      "encoding": "ISO-8859-15"
-    },
-    "alchemy.item.id_329_black_bottle": {
-      "file": "server/lua/alchemy/item/id_329_black_bottle.lua",
-      "encoding": "ISO-8859-15"
-    },
-    "alchemy.item.id_330_white_bottle": {
-      "file": "server/lua/alchemy/item/id_330_white_bottle.lua",
-      "encoding": "ISO-8859-15"
-    },
-    "alchemy.item.id_331_green_bottle": {
-      "file": "server/lua/alchemy/item/id_331_green_bottle.lua",
-      "encoding": "ISO-8859-15"
-    },
-    "alchemy.item.id_3642_empty_salve_jar": {
-      "file": "server/lua/alchemy/item/id_3642_empty_salve_jar.lua",
-      "encoding": "ISO-8859-15"
-    },
-    "alchemy.item.id_3643_salve_jar": {
-      "file": "server/lua/alchemy/item/id_3643_salve_jar.lua",
-      "encoding": "ISO-8859-15"
-    },
-    "alchemy.item.id_59_red_bottle": {
-      "file": "server/lua/alchemy/item/id_59_red_bottle.lua",
-      "encoding": "ISO-8859-15"
-    },
     "alchemy.lte.id_166_secattribs": {
       "file": "server/lua/alchemy/lte/id_166_secattribs.lua",
       "encoding": "ISO-8859-15"
@@ -995,10 +955,6 @@
     },
     "item.id_12_campfire": {
       "file": "server/lua/item/id_12_campfire.lua",
-      "encoding": "ISO-8859-15"
-    },
-    "item.id_164_emptybottle": {
-      "file": "server/lua/item/id_164_emptybottle.lua",
       "encoding": "ISO-8859-15"
     },
     "item.id_169_loom": {
